@@ -6,7 +6,7 @@
     "precio" : 29.99,
     "tags":"Cocina, dibujo, música",
     "imageUrl": "./assets/img/artes.jpg",
-    "url": "./categorias/artes"
+    "url": "./categorias/artes.html"
   },
   {
     "Categoría": "Deportes y Fitness",

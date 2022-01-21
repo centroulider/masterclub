@@ -5,8 +5,8 @@
     "Cantidad": 50,
     "precio" : 29.99,
     "tags":"Cocina, dibujo, música",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/artes.jpg",
-    "url": "http://127.0.0.1:5500/categorias/artes.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/artes.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/artes.html"
   },
   {
     "Categoría": "Deportes y Fitness",
@@ -14,8 +14,8 @@
     "Cantidad": 21,
     "precio" : 29.99,
     "tags": "Gym, Defensa personal ",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/deportes.jpg",
-    "url": "http://127.0.0.1:5500/categorias/deportes-fitness.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/deportes.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/deportes-fitness.html"
   },
   {
     "Categoría": "Desarrollo Personal",
@@ -23,8 +23,8 @@
     "Cantidad": 96,
     "precio" : 29.99,
     "tags": "Bienestar, seducción, mente.",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/personal.jpg",
-    "url": "http://127.0.0.1:5500/categorias/desarrollo-personal.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/personal.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/desarrollo-personal.html"
   },
   {
     "Categoría": "Crecimiento Profesional",
@@ -32,8 +32,8 @@
     "Cantidad": 41,
     "precio" : 29.99,
     "tags": "Comunicacion, lectura, marca",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/profesional.jpg",
-    "url": "http://127.0.0.1:5500/categorias/crecimiento-profesional.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/profesional.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/crecimiento-profesional.html"
   },
   {
     "Categoría": "Desarrollo Web",
@@ -41,8 +41,8 @@
     "Cantidad": 34,
     "precio" : 29.99,
     "tags": "JavaScript, Python, Wordpress",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/desarrollo.jpg",
-    "url": "http://127.0.0.1:5500/categorias/desarrollo-web.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/desarrollo.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/desarrollo-web.html"
   },
   {
     "Categoría": "Diseño Gráfico",
@@ -50,8 +50,8 @@
     "Cantidad": 43,
     "precio" : 29.99,
     "tags": "Photoshop, illustrator...",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/diseno.jpg",
-    "url": "http://127.0.0.1:5500/categorias/diseno-grafico.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/diseno.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/diseno-grafico.html"
   },
   {
     "Categoría": "e-commerce",
@@ -59,8 +59,8 @@
     "Cantidad": 25,
     "precio" : 29.99,
     "tags": "Dropshiping, Amazon, Ebay  ",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/ecommerce.jpg",
-    "url": "http://127.0.0.1:5500/categorias/ecommerce.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/ecommerce.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/ecommerce.html"
   },
   {
     "Categoría": "Edición de video",
@@ -68,8 +68,8 @@
     "Cantidad": 18,
     "precio" : 29.99,
     "tags": "Premiere, After Effects...",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/edicion.jpg",
-    "url": "http://127.0.0.1:5500/categorias/edicion-video.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/edicion.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/edicion-video.html"
   },
   {
     "Categoría": "Emprendimiento",
@@ -77,8 +77,8 @@
     "Cantidad": 44,
     "precio" : 29.99,
     "tags": "Agencias, escuelas, online",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/emprendimiento.jpg",
-    "url": "http://127.0.0.1:5500/categorias/emprendimiento.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/emprendimiento.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/emprendimiento.html"
   },
   {
     "Categoría": "Idiomas",
@@ -86,8 +86,8 @@
     "Cantidad": 10,
     "precio" : 29.99,
     "tags": "Inglés",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/idiomas.jpg",
-    "url": "http://127.0.0.1:5500/categorias/idiomas.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/idiomas.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/idiomas.html"
   },
   {
     "Categoría": "Instagram",
@@ -95,8 +95,8 @@
     "Cantidad": 17,
     "precio" : 29.99,
     "tags": "Contenidos, Seguidores...",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/instagram.jpg",
-    "url": "http://127.0.0.1:5500/categorias/instagram.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/instagram.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/instagram.html"
   },
   {
     "Categoría": "Marketing Digital",
@@ -104,8 +104,8 @@
     "Cantidad": 122,
     "precio" : 29.99,
     "tags": "Publicidad, ventas, Tools",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/marketing.jpg",
-    "url": "http://127.0.0.1:5500/categorias/marketingdigital.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/marketing.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/marketingdigital.html"
   },
   {
     "Categoría": "Negocios y Finanzas",
@@ -113,8 +113,8 @@
     "Cantidad": 82,
     "precio" : 29.99,
     "tags": "Inversiones, Bienes raices...",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/finanzas.jpg",
-    "url": "http://127.0.0.1:5500/categorias/negocios-finanzas.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/finanzas.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/negocios-finanzas.html"
   },
   {
     "Categoría": "Otros",
@@ -122,7 +122,7 @@
     "Cantidad": 13,
     "precio" : 29.99,
     "tags": "Varios",
-    "imageUrl": "http://127.0.0.1:5500/assets/img/artes.jpg",
-    "url": "http://127.0.0.1:5500/categorias/otros.html"
+    "imageUrl": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/artes.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/categorias/otros.html"
   }
 ]

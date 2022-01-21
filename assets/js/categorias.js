@@ -1,6 +1,6 @@
 // cargaInfo();
 
-fetch('http://127.0.0.1:5500/assets/data/categorias.json')
+fetch('./assets/data/categorias.json')
 .then(response => response.json() )
 .then(data => {
     let div = "";    
@@ -46,7 +46,7 @@ fetch('http://127.0.0.1:5500/assets/data/categorias.json')
 });
 
 
-fetch('http://127.0.0.1:5500/assets/data/autores.json')
+fetch('./assets/data/autores.json')
 .then(response => response.json() )
 .then(data => {
     let tr = "";    

@@ -2,106 +2,106 @@
   {
     "autor": "Diego Dreyfrus",
     "cantidad": 5,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/dreyfrus.jpg",
-    "url": "http://127.0.0.1:5500/autores/diego-dreyfrus.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/dreyfrus.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/diego-dreyfrus.html",
     "tags": "Desarrollo Personal"
   },
   {
     "autor": "EDTeam",
     "cantidad": 5,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/edteam.jpg",
-    "url": "http://127.0.0.1:5500/autores/edteam.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/edteam.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/edteam.html",
     "tags": "Marketing, Desarrollo web, Emprendimiento"
   },
   {
     "autor": "Juan Lombana",
     "cantidad": 5,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/lombana.png",
-    "url": "http://127.0.0.1:5500/autores/juan-lombana.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/lombana.png",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/juan-lombana.html",
     "tags": "Marketing digital, Emprendimiento"
   },
   {
     "autor": "Richard Blander",
     "cantidad": 5,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/blander.jpg",
-    "url": "http://127.0.0.1:5500/autores/richard-blander.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/blander.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/richard-blander.html",
     "tags": "Desarrollo Personal"
   },
   {
     "autor": "Bruno Sanders",
     "cantidad": 6,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/sanders.jpg",
-    "url": "http://127.0.0.1:5500/autores/bruno-sanders.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/sanders.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/bruno-sanders.html",
     "tags": "Marketing Digital, Emprendimiento"
   },
   {
     "autor": "Krav Maga",
     "cantidad": 6,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/maga.jpg",
-    "url": "http://127.0.0.1:5500/autores/krav-maga.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/maga.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/krav-maga.html",
     "tags": "Defensa Personal"
   },
   {
     "autor": "Guerry Sánchez",
     "cantidad": 7,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/guerry.jpg",
-    "url": "http://127.0.0.1:5500/autores/guerry-sanchez.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/guerry.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/guerry-sanchez.html",
     "tags": "Desarrollo Personal"
   },
   {
     "autor": "Euge Oller",
     "cantidad": 9,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/oller.jpg",
-    "url": "http://127.0.0.1:5500/autores/euge-oller.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/oller.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/euge-oller.html",
     "tags": "Marketing digital, Lectura, Emprendimiento"
   },
   {
     "autor": "Runbenguo",
     "cantidad": 10,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/runbenguo.jpg",
-    "url": "http://127.0.0.1:5500/autores/runbenguo.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/runbenguo.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/runbenguo.html",
     "tags": "Edición de vídeo, Diseño gráfico, Fotografía"
   },
   {
     "autor": "Udemy",
     "cantidad": 10,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/udemy.jpg",
-    "url": "http://127.0.0.1:5500/autores/udemy.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/udemy.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/udemy.html",
     "tags": "Artes, Negocios, Emprendimiento"
   },
   {
     "autor": "Vilma Nuñez",
     "cantidad": 10,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/vilma.jpg",
-    "url": "http://127.0.0.1:5500/autores/vilma-nunez.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/vilma.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/vilma-nunez.html",
     "tags": "Marketing Digital"
   },
   {
     "autor": "Jurgen Claric",
     "cantidad": 22,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/jurgen.jpg",
-    "url": "http://127.0.0.1:5500/autores/jurgen-clarick.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/jurgen.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/jurgen-clarick.html",
     "tags": "Negocios, Marketing, Emprendimiento"
   },
   {
     "autor": "Carlos Muñóz",
     "cantidad": 35,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/munoz.png",
-    "url": "http://127.0.0.1:5500/autores/carlos-munoz.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/munoz.png",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/carlos-munoz.html",
     "tags": "Negocios, Marketing, Emprendimiento"
   },
   {
     "autor": "Crehana",
     "cantidad": 44,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/crehana.jpg",
-    "url": "http://127.0.0.1:5500/autores/crehana.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/crehana.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/crehana.html",
     "tags": "Artes, Negocios, Emprendimiento"
   },
   {
     "autor": "Domestika",
     "cantidad": 58,
-    "urlImage": "http://127.0.0.1:5500/assets/img/autores/domestika.jpg",
-    "url": "http://127.0.0.1:5500/autores/domestika.html",
+    "urlImage": "https://github.com/Masterclub30/masterclub/blob/main/assets/img/autores/domestika.jpg",
+    "url": "https://github.com/Masterclub30/masterclub/blob/main/autores/domestika.html",
     "tags": "Artes, Negocios, Emprendimiento"
   }
 ]

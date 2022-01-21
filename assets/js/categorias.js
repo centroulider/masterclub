@@ -6,8 +6,8 @@ fetch('./assets/data/categorias.json')
     let div = "";    
     data.forEach(function(curso){
         div += `
-        <div id="cardCategory marketing" class="col-lg-3 mb-lg-0 ">
-          <div class="card z-index-2 mb-3 ">
+        <div id="cardCategory" class="col-9 col-lg-3 mb-lg-0 me-3">
+          <div class="card z-index-2 mb-3">
            
              <div class="card-body p-3 pb-0">
                <div class="bg-gradient-primary border-radius-lg p-1  mb-2">
@@ -16,12 +16,12 @@ fetch('./assets/data/categorias.json')
                  </div>
                </div>
                <div class="div ">
-                 <a href="${curso.url}"><h6 class="ms-2 mb-0 text-light text-bolder"> ${curso.Categoría} </h6></a>
+                 <a href="${curso.url}"><h6 class="ms-2 mb-0 text-  text-light text-bolder"> ${curso.Categoría} </h6></a>
                  <p class="text-sm ms-2 mt-2"> <span class="font-weight-bolder text-success"></span>${curso.tags}</p>
                </div>
                <div class="container border-radius-lg mb-2">
                    <div class="row mt-3">
-                     <div class="col-5 ps-0">
+                     <div class="d-none d-lg-block col-5 ps-0">
                        <div class="d-flex mb-2">
                          <div class="icon icon-shape icon-xxs shadow border-radius-sm bg-gradient-primary text-center me-2 d-flex align-items-center justify-content-center">
                            <i class="fas fa-list-alt mt-2"></i> 
@@ -29,9 +29,9 @@ fetch('./assets/data/categorias.json')
                          <a href="${curso.url}" class="text-sm font-weight-bold text-light">Lista</a>
                        </div>
                      </div>
-                     <div class="col-7 ps-0">
+                     <div class="col-12 col-lg-7 ps-0">
                        <div class="d-flex">
-                         <p class="text-sm ms-2"> <span class="font-weight-bolder text-success">${curso.Cantidad}</span> Cursos </p>
+                         <p class="text-sm ms-lg-2"> <span class="font-weight-bolder text-success">${curso.Cantidad}</span> Cursos </p>
                        </div>
                      </div>
                    </div>

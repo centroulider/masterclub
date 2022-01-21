@@ -46,7 +46,7 @@ window.onload=()=> {
    linkoferta.href = "hotmail.com";
 
    const linkpdf = document.getElementById("linkPdf");
-   linkpdf.href = "hotmail.com"
+   linkpdf.href = "https://docs.google.com/spreadsheets/d/1vCU5k-KBjvuusu-i98EPFo6F4Rk-xE1ykMLA6et1R4E/edit?usp=sharing"
 
    // Links footer
 

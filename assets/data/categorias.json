@@ -1,0 +1,128 @@
+[
+  {
+    "Categoría": "Artes",
+    "Codigo": "AR",
+    "Cantidad": 50,
+    "precio" : 29.99,
+    "tags":"Cocina, dibujo, música",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/artes.jpg",
+    "url": "http://127.0.0.1:5500/categorias/artes.html"
+  },
+  {
+    "Categoría": "Deportes y Fitness",
+    "Codigo": "DF",
+    "Cantidad": 21,
+    "precio" : 29.99,
+    "tags": "Gym, Defensa personal ",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/deportes.jpg",
+    "url": "http://127.0.0.1:5500/categorias/deportes-fitness.html"
+  },
+  {
+    "Categoría": "Desarrollo Personal",
+    "Codigo": "DP",
+    "Cantidad": 96,
+    "precio" : 29.99,
+    "tags": "Bienestar, seducción, mente.",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/personal.jpg",
+    "url": "http://127.0.0.1:5500/categorias/desarrollo-personal.html"
+  },
+  {
+    "Categoría": "Crecimiento Profesional",
+    "Codigo": "CP",
+    "Cantidad": 41,
+    "precio" : 29.99,
+    "tags": "Comunicacion, lectura, marca",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/profesional.jpg",
+    "url": "http://127.0.0.1:5500/categorias/crecimiento-profesional.html"
+  },
+  {
+    "Categoría": "Desarrollo Web",
+    "Codigo": "DW",
+    "Cantidad": 34,
+    "precio" : 29.99,
+    "tags": "JavaScript, Python, Wordpress",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/desarrollo.jpg",
+    "url": "http://127.0.0.1:5500/categorias/desarrollo-web.html"
+  },
+  {
+    "Categoría": "Diseño Gráfico",
+    "Codigo": "DG",
+    "Cantidad": 43,
+    "precio" : 29.99,
+    "tags": "Photoshop, illustrator...",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/diseno.jpg",
+    "url": "http://127.0.0.1:5500/categorias/diseno-grafico.html"
+  },
+  {
+    "Categoría": "e-commerce",
+    "Codigo": "ECM",
+    "Cantidad": 25,
+    "precio" : 29.99,
+    "tags": "Dropshiping, Amazon, Ebay  ",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/ecommerce.jpg",
+    "url": "http://127.0.0.1:5500/categorias/ecommerce.html"
+  },
+  {
+    "Categoría": "Edición de video",
+    "Codigo": "EV",
+    "Cantidad": 18,
+    "precio" : 29.99,
+    "tags": "Premiere, After Effects...",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/edicion.jpg",
+    "url": "http://127.0.0.1:5500/categorias/edicion-video.html"
+  },
+  {
+    "Categoría": "Emprendimiento",
+    "Codigo": "EM",
+    "Cantidad": 44,
+    "precio" : 29.99,
+    "tags": "Agencias, escuelas, online",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/emprendimiento.jpg",
+    "url": "http://127.0.0.1:5500/categorias/emprendimiento.html"
+  },
+  {
+    "Categoría": "Idiomas",
+    "Codigo": "ID",
+    "Cantidad": 10,
+    "precio" : 29.99,
+    "tags": "Inglés",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/idiomas.jpg",
+    "url": "http://127.0.0.1:5500/categorias/idiomas.html"
+  },
+  {
+    "Categoría": "Instagram",
+    "Codigo": "INS",
+    "Cantidad": 17,
+    "precio" : 29.99,
+    "tags": "Contenidos, Seguidores...",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/instagram.jpg",
+    "url": "http://127.0.0.1:5500/categorias/instagram.html"
+  },
+  {
+    "Categoría": "Marketing Digital",
+    "Codigo": "MD",
+    "Cantidad": 122,
+    "precio" : 29.99,
+    "tags": "Publicidad, ventas, Tools",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/marketing.jpg",
+    "url": "http://127.0.0.1:5500/categorias/marketingdigital.html"
+  },
+  {
+    "Categoría": "Negocios y Finanzas",
+    "Codigo": "NF",
+    "Cantidad": 82,
+    "precio" : 29.99,
+    "tags": "Inversiones, Bienes raices...",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/finanzas.jpg",
+    "url": "http://127.0.0.1:5500/categorias/negocios-finanzas.html"
+  },
+  {
+    "Categoría": "Otros",
+    "Codigo": "OT",
+    "Cantidad": 13,
+    "precio" : 29.99,
+    "tags": "Varios",
+    "imageUrl": "http://127.0.0.1:5500/assets/img/artes.jpg",
+    "url": "http://127.0.0.1:5500/categorias/otros.html"
+  }
+]

@@ -18,9 +18,9 @@
   <link id="pagestyle" href="../assets/css/soft-ui-dashboard.css?v=1.0.3" rel="stylesheet" />
 </head>
  
-<body class=" bg-bluedark justify-content-center align-items-center">
+<body class=" bg-bluedark w-100 h-100">
   
-    <div class="sidenav-header m-3" style="margin: auto auto;">
+    <div class="sidenav-header justify-content-center align-items-center" style="margin: 0 auto;">
       <i class="fas fa-times p-3 cursor-pointer text-secondary opacity-5 position-absolute end-0 top-0 d-none d-xl-none"></i>
       <a class="navbar-brand m-0" href="index.html">
         <img src="../assets/img/masterIcon.png" class="navbar-brand-img h-50 me-2" alt="main_logo">
@@ -29,7 +29,11 @@
     </div>
   
   <script>
-   window.location.assign('https://drive.google.com/drive/folders/13Ba5t9NC1QiV_I3M3QtVbHTMUb_rLouT?usp=sharing');
+    
+    function(redirect){
+      window.location.assign('https://drive.google.com/drive/folders/13Ba5t9NC1QiV_I3M3QtVbHTMUb_rLouT?usp=sharing');
+    };    
+    setTimeout("redireccionar()", 1500);
   </script>
     
   

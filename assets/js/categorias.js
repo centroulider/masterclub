@@ -52,30 +52,16 @@ fetch('./assets/data/autores.json')
     let tr = "";    
     data.forEach(function(autor){
         tr += `            
-          <tr>
-            <td>
-              <div class="d-flex px-2 py-1">
-                <table>
-                  <tbody>
-                    <td>
+          <div class="col-lg-2 px-2 py-1 text-center">
                       <div>
-                        <a href="#"><img src="${autor.urlImage}" class="avatar  me-3" alt="${autor.autor}"></a>
+                        <a href="#"><img src="${autor.urlImage}" class="w-100 h-auto avatar me-3 mb-2" alt="${autor.autor}"></a>
                       </div>
-                    </td>
-                    <td>
                       <div class="d-flex flex-column justify-content-center">
                         <a href="#"><h6 class="mb-0 text-sm text-white">${autor.autor}</h6></a>
                         <p class="text-xs text-secondary mb-0">${autor.tags}</p>
                       </div>
-                    </td>
-                  </tbody>
-                </table>
+                      <p class="text-xs font-weight-bold mb-0 text-success">${autor.cantidad} Cursos</p>
               </div>
-            </td>
-            <td>
-              <p class="text-xs font-weight-bold mb-0 text-success">${autor.cantidad} Cursos</p>
-            </td>
-          </tr>
         `;
     });
     document.getElementById('autores').innerHTML = tr;

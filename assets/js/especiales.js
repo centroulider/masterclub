@@ -29,9 +29,6 @@ const x = setInterval(function() {
 window.onload=()=> {
   
    // Links footer
-  
-  const linkcreator = document.getElementById("linkCreator");
-  linkcreator.href = "https://google.com";
 
   const linkmasterclub = document.getElementById("linkMasterClub");
   linkmasterclub.href = "https://google.com";

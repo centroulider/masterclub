@@ -57,7 +57,7 @@ window.onload=()=> {
   linkpreciocategoria.href = "hotmail.com"
 
   const linkoferta = document.getElementById("linkOferta");
-  linkoferta.href = "super-oferta.html";
+  linkoferta.href = "https://masterclub30.digital/super-oferta";
 
 
   // Lnks Menu

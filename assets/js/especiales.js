@@ -39,7 +39,7 @@ window.onload=()=> {
 
    // links ctas
    const linkprueba = document.getElementById("linkPrueba");
-   linkprueba.href = "https://facebook.com"
+   linkprueba.href = "https://masterclub30.digital/prueba-gratis"
 
    const linkpreciocategoria = document.getElementById("linkPrecioCategoria");
    linkpreciocategoria.href = "hotmail.com"

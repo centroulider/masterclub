@@ -1,5 +1,7 @@
 // Define la fecha límite
-const countDownDate = new Date("Jan 21, 2022 23:59:59").getTime();
+const finPromo = "Jan 24, 2022 23:59:59"
+
+const countDownDate = new Date(finPromo).getTime();
 
 // Actualiza la cuenta cada segundo
 const x = setInterval(function() {

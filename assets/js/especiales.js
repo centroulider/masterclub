@@ -25,47 +25,55 @@ const x = setInterval(function() {
 }, 1000);
 
 
-// Links menu
+
 window.onload=()=> {
-   const linkinicio = document.getElementById("linkInicio");
-   linkinicio.href = "../index.html"
-
-   const linkcategorias = document.getElementById("linkCategorias");
-   linkcategorias.href = "../index.html#maincategories"
-
-   const linkautores = document.getElementById("linkAutores");
-   linkautores.href = "../index.html#mainauthors"
-
-
-   // links ctas
-   const linkprueba = document.getElementById("linkPrueba");
-   linkprueba.href = "https://masterclub30.digital/prueba-gratis"
-
-   const linkpreciocategoria = document.getElementById("linkPrecioCategoria");
-   linkpreciocategoria.href = "hotmail.com"
-   
-   const linkoferta = document.getElementById("linkOferta");
-   linkoferta.href = "hotmail.com";
-
-   const linkpdf = document.getElementById("linkPdf");
-   linkpdf.href = "https://docs.google.com/spreadsheets/d/1vCU5k-KBjvuusu-i98EPFo6F4Rk-xE1ykMLA6et1R4E/edit?usp=sharing"
-
+  
    // Links footer
+  
+  const linkcreator = document.getElementById("linkCreator");
+  linkcreator.href = "https://google.com";
 
-   const linkcreator = document.getElementById("linkCreator");
-   linkcreator.href = "https://google.com";
+  const linkmasterclub = document.getElementById("linkMasterClub");
+  linkmasterclub.href = "https://google.com";
 
-   const linkmasterclub = document.getElementById("linkMasterClub");
-   linkmasterclub.href = "https://google.com";
+  const linkpagos = document.getElementById("linkPagos");
+  linkpagos.href = "https://google.com";
 
-   const linkpagos = document.getElementById("linkPagos");
-   linkpagos.href = "https://google.com";
+  const linkgarantia = document.getElementById("linkGarantia");
+  linkgarantia.href = "https://google.com";
 
-   const linkgarantia = document.getElementById("linkGarantia");
-   linkgarantia.href = "https://google.com";
+  const linkprivacidad = document.getElementById("linkPrivacidad");
+  linkprivacidad.href = "https://google.com";
 
-   const linkprivacidad = document.getElementById("linkPrivacidad");
-   linkprivacidad.href = "https://google.com";
+  // links ctas
+
+  const linkpdf = document.getElementById("linkPdf");
+  linkpdf.href = "https://docs.google.com/spreadsheets/d/1vCU5k-KBjvuusu-i98EPFo6F4Rk-xE1ykMLA6et1R4E/edit?usp=sharing"
+
+  const linkprueba = document.getElementById("linkPrueba");
+  linkprueba.href = "https://masterclub30.digital/prueba-gratis"
+
+  const linkpreciocategoria = document.getElementById("linkPrecioCategoria");
+  linkpreciocategoria.href = "hotmail.com"
+
+  const linkoferta = document.getElementById("linkOferta");
+  linkoferta.href = "super-oferta.html";
+
+
+  // Lnks Menu
+
+  
+  const linkautores = document.getElementById("linkAutores");
+  linkautores.href = "https://masterclub30.digital#mainauthors"
+
+  const linkcategorias = document.getElementById("linkCategorias");
+  linkcategorias.href = "https://masterclub30.digital#maincategories"
+
+  const linkinicio = document.getElementById("linkInicio");
+  linkinicio.href = "https://masterclub30.digital"
+
+  const linkhome = document.getElementById("linkHome");
+  linkhome.href = "https://masterclub30.digital"
 };
 
 

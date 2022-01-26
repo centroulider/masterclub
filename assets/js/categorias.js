@@ -6,7 +6,7 @@ fetch('./assets/data/categorias.json')
     let div = "";    
     data.forEach(function(curso){
         div += `
-        <div id="cardCategory" class="col-9 col-lg-3 mb-lg-0 me-3">
+        <div id="cardCategory" class="col-9 col-lg-3 mb-lg-0">
           <div class="card z-index-2 mb-3">
            
              <div class="card-body p-3 pb-0">

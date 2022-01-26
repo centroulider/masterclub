@@ -58,6 +58,20 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.tarjetas{
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.tarjeta{
+  transition: all 0.3s ease-out;
+}
+.filtro {
+  /* display: none; */
+  visibility: hidden;
+  opacity: 0;
+  order: 1;
+}
+
 .menuFooter{
   bottom: 20px;
   position: absolute;

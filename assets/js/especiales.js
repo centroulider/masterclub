@@ -51,7 +51,7 @@ window.onload=()=> {
   linkprueba.href = "https://masterclub30.digital/prueba-gratis"
 
   const linkpreciocategoria = document.getElementById("linkPrecioCategoria");
-  linkpreciocategoria.href = "hotmail.com"
+  linkpreciocategoria.href = "https://wa.me/+573242793938?text=Hola+master+club.+Quiero+comprar+el+acceso+a+la+categoría+de:"
 
   const linkoferta = document.getElementById("linkOferta");
   linkoferta.href = "https://masterclub30.digital/super-oferta";

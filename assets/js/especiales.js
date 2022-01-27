@@ -45,7 +45,7 @@ window.onload=()=> {
   // links ctas
 
   const linkpdf = document.getElementById("linkPdf");
-  linkpdf.href = "https://masterclubdigital/lista-todos"
+  linkpdf.href = "https://masterclub30.digital/lista-todos"
 
   const linkprueba = document.getElementById("linkPrueba");
   linkprueba.href = "https://masterclub30.digital/prueba-gratis"

@@ -6,7 +6,7 @@ fetch('../assets/data/datacursos.json')
     let tr = "";    
     data.cp.forEach(function(curso){
         tr += `            
-        <div class="p-1 col-12 col-lg-4 p-0 my-2 tarjeta">
+        <div class="p-2 col-12 col-lg-4 tarjeta">
             <div class="rounded text-center bg-bluedark">
                 <div class="bg-gradient-primary  pb-1  mb-2">
                 <div class="w-100 ">

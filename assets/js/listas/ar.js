@@ -10,7 +10,7 @@ fetch('../assets/data/datacursos.json')
                 <div class="rounded text-center bg-bluedark">
                     <div class="bg-gradient-primary  pb-1  mb-2">
                     <div class="w-100 ">
-                        <a href="${curso.urlPago}" ><img src="${curso.urlImage}" class="shadow-sm" width="100%" alt=""></a>
+                        <a href="${curso.urlPago}+*${curso.curso}*+de+${curso.autor}" ><img src="${curso.urlImage}" class="shadow-sm" width="100%" alt=""></a>
                     </div>
                     </div>
                     <div class="px-3">

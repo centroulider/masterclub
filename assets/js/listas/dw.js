@@ -18,7 +18,7 @@ fetch('../assets/data/datacursos.json')
                 <a class="text-light text-xxs" href="${curso.urlPago}"><h6 class="mb-0 text-light ">${curso.curso}</h6></a>
                 <p class="text-xs mt-2">${curso.autor} <span class="font-weight-bolder text-success">${curso.tag}</span></p>
                 </div>
-                <a href="${curso.urlPago}"><button class="w-100 bg-success mb-3 border-0 rounded text-bolder text-white move-on-hover">Comprar por ${curso.precio}</button></a>
+                <a href="${curso.urlPago}+*${curso.curso}*+de+${curso.autor}"><button class="w-100 bg-success mb-3 border-0 rounded text-bolder text-white move-on-hover">Comprar por ${curso.precio}</button></a>
                 </div>
             </div>
         </div>

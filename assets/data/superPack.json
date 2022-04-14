@@ -1,0 +1,346 @@
+[
+  {
+    "curso": "Angular de cero a experto",
+    "lenguaje": "Angular"
+  },
+  {
+    "curso": "REDUX en Angular con NGRX Desde las bases hasta la práctica",
+    "lenguaje": "Angular, Javascript, librerías"
+  },
+  {
+    "curso": "Creación de Style Guide para Apps",
+    "lenguaje": "Apps"
+  },
+  {
+    "curso": "Crea tu propio robot con Arduino",
+    "lenguaje": "Arduino"
+  },
+  {
+    "curso": "Creando el backend con la PokeApi",
+    "lenguaje": "Backend"
+  },
+  {
+    "curso": "Curso práctico de Arquitectura Backend",
+    "lenguaje": "Backend, Avanzado"
+  },
+  {
+    "curso": "Curso de Integración de Backend con Frontend",
+    "lenguaje": "Backend, Frontend, Avanzado"
+  },
+  {
+    "curso": "SQL - Curso completo de Bases de Datos - de 0 a Avanzado",
+    "lenguaje": "Bases de datos"
+  },
+  {
+    "curso": "Sistemas de Diseño",
+    "lenguaje": "Básico"
+  },
+  {
+    "curso": "El lenguaje C desde cero",
+    "lenguaje": "C"
+  },
+  {
+    "curso": "Curso de Debugging con Chrome DevTools",
+    "lenguaje": "Chrome"
+  },
+  {
+    "curso": "Grid Layout",
+    "lenguaje": "Css, Básico"
+  },
+  {
+    "curso": "Preprocesadores CSS",
+    "lenguaje": "Css, intermedio"
+  },
+  {
+    "curso": "Debugging con Chrome Devtools",
+    "lenguaje": "Debugging, Chrome, básico"
+  },
+  {
+    "curso": "Creando mi primer videojuego",
+    "lenguaje": "Desarrollo de videojuegos"
+  },
+  {
+    "curso": "Curso de Accesibilidad Web",
+    "lenguaje": "Diseño web, Css, Html"
+  },
+  {
+    "curso": "Curso de manipulación del DOM",
+    "lenguaje": "DOM"
+  },
+  {
+    "curso": "Curso de Server Side Render con Express",
+    "lenguaje": "Express, Avanzado"
+  },
+  {
+    "curso": "Figma desde cero",
+    "lenguaje": "Figma"
+  },
+  {
+    "curso": "Desarrollo Web en PHP, MVC, POO y MySQL - Tienda Virtual",
+    "lenguaje": "Fullstack"
+  },
+  {
+    "curso": "Master en PHP Moderno 7 y 8 POO, PDO, Mysql, SQL, PostgreSQL",
+    "lenguaje": "Fullstack"
+  },
+  {
+    "curso": "Desarrollo web completo con HTML5, CSS, PHP, AJAX y MySQL",
+    "lenguaje": "Fullstack"
+  },
+  {
+    "curso": "Inicia con Tall: Usatailwind, Alphine, Laravel y Livewire",
+    "lenguaje": "Fullstack"
+  },
+  {
+    "curso": "Sistema de ventas en ASP.NET MVC en C# and SQL full stack",
+    "lenguaje": "FullStack"
+  },
+  {
+    "curso": "Sistema de venta en PHP 8 POO MVC con MySQL PDO full stack",
+    "lenguaje": "FullStack"
+  },
+  {
+    "curso": "Git y Gihub",
+    "lenguaje": "Git, básico"
+  },
+  {
+    "curso": "Curso de Html y Css básico",
+    "lenguaje": "Html y Css"
+  },
+  {
+    "curso": "Curso definitivo de Html",
+    "lenguaje": "Html, básico"
+  },
+  {
+    "curso": "Curso de Diseño Web con CSS Grid y Flexbox",
+    "lenguaje": "Html, Css"
+  },
+  {
+    "curso": "Responsive Design: Maquetación Mobile First",
+    "lenguaje": "Html, Css"
+  },
+  {
+    "curso": "Ciurso Práctico de Maquetación en CSS",
+    "lenguaje": "Html, Css"
+  },
+  {
+    "curso": "Curso Práctico de Html y Css",
+    "lenguaje": "Html, Css, básico"
+  },
+  {
+    "curso": "Curso de Responsive Design",
+    "lenguaje": "Html, Css, básico"
+  },
+  {
+    "curso": "Accesibilidad Web",
+    "lenguaje": "Html, Css, básico"
+  },
+  {
+    "curso": "Curso de Frontend Developer",
+    "lenguaje": "Html, Css, Javascript"
+  },
+  {
+    "curso": "Cómo crear tu propio entorno de escritorio con Arch Linux",
+    "lenguaje": "Informática"
+  },
+  {
+    "curso": "Curso de sistemas operativos",
+    "lenguaje": "Informática"
+  },
+  {
+    "curso": "Fundamentos de Javascript",
+    "lenguaje": "Javascript"
+  },
+  {
+    "curso": "Fundamentos de programación con JavaScript",
+    "lenguaje": "JavaScript"
+  },
+  {
+    "curso": "Javascript moderno: Guía definitiva",
+    "lenguaje": "JavaScript"
+  },
+  {
+    "curso": "Javascript para niños",
+    "lenguaje": "JavaScript"
+  },
+  {
+    "curso": "Curso Profesional de Javascript 2021",
+    "lenguaje": "JavaScript"
+  },
+  {
+    "curso": "Curso de ECMAScript 6+",
+    "lenguaje": "Javascript"
+  },
+  {
+    "curso": "Curso Profesional de Javascript",
+    "lenguaje": "Javascript"
+  },
+  {
+    "curso": "Closures y Scope en Javascript",
+    "lenguaje": "Javascript"
+  },
+  {
+    "curso": "Asincronismo con Javascript",
+    "lenguaje": "Javascript"
+  },
+  {
+    "curso": "Curso de estructuras de datos con Javascript",
+    "lenguaje": "Javascript"
+  },
+  {
+    "curso": "Curso Básico de Web Components con JavaScript",
+    "lenguaje": "Javascript"
+  },
+  {
+    "curso": "Curso de introducción al despliegue de aplicaciones",
+    "lenguaje": "Javascript"
+  },
+  {
+    "curso": "Curso de Angular",
+    "lenguaje": "Javascript, Angular, Avanzado"
+  },
+  {
+    "curso": "Curso Profesional de Angular",
+    "lenguaje": "Javascript, Angular, Intermedio"
+  },
+  {
+    "curso": "Fundamentos de Node.Js",
+    "lenguaje": "Javascript, Backend, Avanzado"
+  },
+  {
+    "curso": "Curso de Node.Js",
+    "lenguaje": "Javascript, Backend, Avanzado"
+  },
+  {
+    "curso": "Cuso Práctico de Node.Js",
+    "lenguaje": "Javascript, Backend, Avanzado"
+  },
+  {
+    "curso": "Curso de Backend con Node.Js",
+    "lenguaje": "Javascript, Backend, Avanzado"
+  },
+  {
+    "curso": "Curso Avanzado de Node.Js",
+    "lenguaje": "Javascript, Backend, Avanzado"
+  },
+  {
+    "curso": "Curso básico de Javascript",
+    "lenguaje": "Javascript, básico"
+  },
+  {
+    "curso": "Curso de JavaScript Engine (V8) y el Navegador",
+    "lenguaje": "Javascript, chrome, V8"
+  },
+  {
+    "curso": "Javascript testing con Jet",
+    "lenguaje": "Javascript, Jet"
+  },
+  {
+    "curso": "Curso de React Avanzado",
+    "lenguaje": "Javascript, React, Avanzado"
+  },
+  {
+    "curso": "Curso Profesional de React Hooks",
+    "lenguaje": "Javascript, React, Hooks, Intermedio"
+  },
+  {
+    "curso": "Curso de React.Js",
+    "lenguaje": "Javascript, React, intermedio"
+  },
+  {
+    "curso": "Curso Práctico de React.Js",
+    "lenguaje": "Javascript, React, intermedio"
+  },
+  {
+    "curso": "Router para Single Page App con Javascript",
+    "lenguaje": "Javascript, Router, SPA"
+  },
+  {
+    "curso": "Curso de Svelte",
+    "lenguaje": "Javascript, Svelte"
+  },
+  {
+    "curso": "Fundamentos de TypeScript",
+    "lenguaje": "Javascript, TypeScript, Intermedio"
+  },
+  {
+    "curso": "SPA Single Page Application con Vanilla",
+    "lenguaje": "Javascript, Vanilla, SPA"
+  },
+  {
+    "curso": "Curso básico de Vue.Js",
+    "lenguaje": "Javascript, Vue, Intermedio"
+  },
+  {
+    "curso": "Curso Profesional de Vue.Js",
+    "lenguaje": "Javascript, Vue, Intermedio"
+  },
+  {
+    "curso": "Curso Avanzado de Vue.Js",
+    "lenguaje": "Javascript. Vue. Intermedio"
+  },
+  {
+    "curso": "Curso de React Router y Redux",
+    "lenguaje": "Javscript, React, Redux, intermedio"
+  },
+  {
+    "curso": "Curso de Next.Js",
+    "lenguaje": "NextJs"
+  },
+  {
+    "curso": "Node De cero a experto ( Edición 2021 )",
+    "lenguaje": "NodeJs, Javascript"
+  },
+  {
+    "curso": "Gestión de dependencias y paquetes con NPM",
+    "lenguaje": "Npm"
+  },
+  {
+    "curso": "Autenticación con Pasport",
+    "lenguaje": "Pasport, Avanzado"
+  },
+  {
+    "curso": "Curso de Postman",
+    "lenguaje": "Postman, Api"
+  },
+  {
+    "curso": "Aprende a programar con Python",
+    "lenguaje": "Python"
+  },
+  {
+    "curso": "Python de la A a la Z",
+    "lenguaje": "Python"
+  },
+  {
+    "curso": "React - La Guía Completa Hooks Context Redux MERN +15 Apps",
+    "lenguaje": "React, javascript"
+  },
+  {
+    "curso": "Curso de Sapper",
+    "lenguaje": "Sapper, Intermedio"
+  },
+  {
+    "curso": "Svelte y Sapper",
+    "lenguaje": "Sapper, Svelte, Intermedio"
+  },
+  {
+    "curso": "Curso de Sass",
+    "lenguaje": "Sass"
+  },
+  {
+    "curso": "Curso de WebPack",
+    "lenguaje": "Webpack, javascript"
+  },
+  {
+    "curso": "Desarrollo Profesional de Temas y Plugins para wordpress",
+    "lenguaje": "Wordpess"
+  },
+  {
+    "curso": "Crea tu página web con Wordpress",
+    "lenguaje": "Wordpress"
+  },
+  {
+    "curso": "Curso de Optimización Web",
+    "lenguaje": ""
+  }
+]

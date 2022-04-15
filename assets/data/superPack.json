@@ -356,25 +356,25 @@
   {
     "curso": "Aprende a programar con Python",
     "lenguaje": "Python",
-    "main": "phyton",
+    "main": "python",
     "nivel": "Básico"
   },
   {
     "curso": "Curso completo de Python 3 de la A a la Z",
     "lenguaje": "Python",
-    "main": "phyton",
+    "main": "python",
     "nivel": "Cero a cien"
   },
   {
     "curso": "Universidad Python 2021 - POO, Django, Flask y Postgresql",
     "lenguaje": "Python, Django, Flaxk, Postgresql",
-    "main": "phyton",
+    "main": "python",
     "nivel": "Avanzado"
   },
   {
     "curso": "Python sin fronteras HTML, CSS, Flask y MySQL",
     "lenguaje": "Python, Html, Css, Flask, Mysql",
-    "main": "phyton",
+    "main": "python",
     "nivel": "Avanzado"
   },
   {

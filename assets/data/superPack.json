@@ -2,25 +2,25 @@
   {
     "curso": "Git y Github",
     "lenguaje": "Git",
-    "main": "Git",
+    "main": "git",
     "nivel": "Basico"
   },
   {
     "curso": "Definitivo HTML",
     "lenguaje": "Html",
-    "main": "Html",
+    "main": "html",
     "nivel": "Basico"
   },
   {
     "curso": "Práctico Html y Css",
     "lenguaje": "Html, css",
-    "main": "Html",
+    "main": "html",
     "nivel": "Basico"
   },
   {
     "curso": "Responsive Design",
     "lenguaje": "Css",
-    "main": "Css",
+    "main": "css",
     "nivel": "Basico"
   },
   {
@@ -32,109 +32,109 @@
   {
     "curso": "Css Grid Layout",
     "lenguaje": "Css",
-    "main": "Css",
+    "main": "css",
     "nivel": "Basico"
   },
   {
     "curso": "Básico de Javascript",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Debugging con Chrome Layout",
     "lenguaje": "Chrome",
-    "main": "Chrome",
+    "main": "chrome",
     "nivel": "Basico"
   },
   {
     "curso": "Curso de ECMAScript 6+",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Curso Profesional de Javascript",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Closures y Scope en Javascript",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Asincronismo con Javascript",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Accesibilidad Web",
     "lenguaje": "Html, Css",
-    "main": "Html",
+    "main": "html",
     "nivel": "Basico"
   },
   {
     "curso": "Single Page Aplication con Javascript Vanilla",
     "lenguaje": "Javascript, Vanilla",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Router para Single Page App con Javascript",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Gestión de dependencias y paquetes con NPM",
     "lenguaje": "Npm",
-    "main": "Npm",
+    "main": "npm",
     "nivel": "Basico"
   },
   {
     "curso": "Curso de WebPack",
     "lenguaje": "Webpack",
-    "main": "Webpack",
+    "main": "webpack",
     "nivel": "Basico"
   },
   {
     "curso": "Curso de Postman",
     "lenguaje": "Postman",
-    "main": "Postman",
+    "main": "postman",
     "nivel": "Basico"
   },
   {
     "curso": "Curso de Frontend Developer",
     "lenguaje": "Hal, Css, Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Javascript Testing con Jet",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Curso de Diseño Web con CSS Grid y Flexbox",
     "lenguaje": "Css",
-    "main": "Css",
+    "main": "css",
     "nivel": "Basico"
   },
   {
     "curso": "Curso de JavaScript Engine (V8) y el Navegador",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Curso de Responsive Design Maquetación Mobile First",
     "lenguaje": "Css",
-    "main": "Css",
+    "main": "css",
     "nivel": "Basico"
   },
   {
@@ -152,115 +152,115 @@
   {
     "curso": "Curso de Estructuras de Datos con JavaScript",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Curso Básico de Web Components con JavaScript",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Curso Práctico de Maquetación en CSS",
     "lenguaje": "Css",
-    "main": "Css",
+    "main": "css",
     "nivel": "Basico"
   },
   {
     "curso": "Preprocesadores CSS",
     "lenguaje": "Css",
-    "main": "Css",
+    "main": "css",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso de Saas",
     "lenguaje": "Saas",
-    "main": "Saas",
+    "main": "saas",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso de React.Js",
     "lenguaje": "Javascript, React",
-    "main": "ReactJs",
+    "main": "reactjs",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso Práctico de ReactJs",
     "lenguaje": "Javascript, React",
-    "main": "ReactJs",
+    "main": "reactjs",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso de React Router y Redux",
     "lenguaje": "Javascript, React",
-    "main": "ReactJs",
+    "main": "reactjs",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso Profesional de React Hooks",
     "lenguaje": "Javascript, React",
-    "main": "ReactJs",
+    "main": "reactjs",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso de React Avanzado",
     "lenguaje": "Javascript, React",
-    "main": "ReactJs",
+    "main": "reactjs",
     "nivel": "Intermedio"
   },
   {
     "curso": "Fundamentos de TypeScript",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso de Angular",
     "lenguaje": "Javascript. Angular",
-    "main": "Angular",
+    "main": "angular",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso Profesional de Angular",
     "lenguaje": "Javascript, Angular",
-    "main": "Angular",
+    "main": "angular",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso Básico de Vue Js",
     "lenguaje": "Javascript, Vue",
-    "main": "Vue",
+    "main": "vue",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso Avanzado de Vue Js",
     "lenguaje": "Javascript, Vue",
-    "main": "Vue",
+    "main": "vue",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso Profesional de Vue Js",
     "lenguaje": "Javascript, Vue",
-    "main": "Vue",
+    "main": "vue",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso de Svelte",
     "lenguaje": "Svelte",
-    "main": "Svelte",
+    "main": "svelte",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso de Sapper",
     "lenguaje": "Sapper",
-    "main": "Svelte",
+    "main": "svelte",
     "nivel": "Intermedio"
   },
   {
     "curso": "Curso de Svelte y Sapper",
     "lenguaje": "Svelte, Sapper",
-    "main": "Svelte",
+    "main": "svelte",
     "nivel": "Intermedio"
   },
   {
@@ -272,25 +272,25 @@
   {
     "curso": "Fundamentos de NodeJs",
     "lenguaje": "NodeJs",
-    "main": "NodeJs",
+    "main": "nodejs",
     "nivel": "Avanzado"
   },
   {
     "curso": "Curso de NodeJs",
     "lenguaje": "NodeJs",
-    "main": "NodeJs",
+    "main": "nodejs",
     "nivel": "Avanzado"
   },
   {
     "curso": "Curso Práctico de NodeJs",
     "lenguaje": "NodeJs",
-    "main": "NodeJs",
+    "main": "nodejs",
     "nivel": "Avanzado"
   },
   {
     "curso": "Curso de Backend con NodeJs",
     "lenguaje": "NodeJs",
-    "main": "NodeJs",
+    "main": "nodejs",
     "nivel": "Avanzado"
   },
   {
@@ -302,85 +302,85 @@
   {
     "curso": "Autenticación con Passport",
     "lenguaje": "Nest Js",
-    "main": "NodeJs",
+    "main": "nodejs",
     "nivel": "Avanzado"
   },
   {
     "curso": "Curso de Integración Backend y Frontend",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Avanzado"
   },
   {
     "curso": "Curso de Next Js",
     "lenguaje": "Next Js",
-    "main": "NextJs",
+    "main": "nextJs",
     "nivel": "Avanzado"
   },
   {
     "curso": "Curso Práctico de Arquitectura Backend",
     "lenguaje": "Php, Java, Javascript, MySql",
-    "main": "Php",
+    "main": "php",
     "nivel": "Avanzado"
   },
   {
     "curso": "Javascript para niños",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Fundamentos de Javascript",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Basico"
   },
   {
     "curso": "Fundamentos de Programación con Javascript",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Básico"
   },
   {
     "curso": "Curso Profesional de Javascript 2021",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Intermedio"
   },
   {
     "curso": "Introducción al Desarrollo Web con PHP",
     "lenguaje": "Php",
-    "main": "Php",
+    "main": "php",
     "nivel": "Básico"
   },
   {
     "curso": "Aprende a programar con Python",
     "lenguaje": "Python",
-    "main": "Python",
+    "main": "phyton",
     "nivel": "Básico"
   },
   {
     "curso": "Curso completo de Python 3 de la A a la Z",
     "lenguaje": "Python",
-    "main": "Python",
+    "main": "phyton",
     "nivel": "Cero a cien"
   },
   {
     "curso": "Universidad Python 2021 - POO, Django, Flask y Postgresql",
     "lenguaje": "Python, Django, Flaxk, Postgresql",
-    "main": "Python",
+    "main": "phyton",
     "nivel": "Avanzado"
   },
   {
     "curso": "Python sin fronteras HTML, CSS, Flask y MySQL",
     "lenguaje": "Python, Html, Css, Flask, Mysql",
-    "main": "Python",
+    "main": "phyton",
     "nivel": "Avanzado"
   },
   {
     "curso": "El Lenguaje C desde Cero",
     "lenguaje": "C",
-    "main": "C",
+    "main": "c",
     "nivel": "Básico"
   },
   {
@@ -392,31 +392,31 @@
   {
     "curso": "Angular de Cero a Experto",
     "lenguaje": "Angular",
-    "main": "Angular",
+    "main": "angular",
     "nivel": "Cero a cien"
   },
   {
     "curso": "Node de cero a Experto",
     "lenguaje": "NodeJs",
-    "main": "NodeJs",
+    "main": "nodejs",
     "nivel": "Cero a cien"
   },
   {
     "curso": "Como crear tu Propio Entorno de Escritorio en Arch Linux",
     "lenguaje": "Linux",
-    "main": "Linux",
+    "main": "linux",
     "nivel": "Intermedio"
   },
   {
     "curso": "Desde 0 hasta Maestro - Creando el Backend con la PokeAPI",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Backend"
   },
   {
     "curso": "Crea tu primer Robot con Arduino",
     "lenguaje": "Arduino",
-    "main": "Arduino",
+    "main": "arduino",
     "nivel": "Basico"
   },
   {
@@ -428,67 +428,67 @@
   {
     "curso": "Creando mi primer Videojuego",
     "lenguaje": "Unity",
-    "main": "Unity",
+    "main": "unity",
     "nivel": "Básico"
   },
   {
     "curso": "Curso de Html y Css Básico",
     "lenguaje": "Html, Css",
-    "main": "Html",
+    "main": "html",
     "nivel": "Básico"
   },
   {
     "curso": "REDUX en Angular con NGRX Desde las bases hasta la práctica",
     "lenguaje": "Angular",
-    "main": "Angular",
+    "main": "angular",
     "nivel": "Avanzado"
   },
   {
     "curso": "Desarrollo Profesional de Temas y Plugins de WordPress Udemy",
     "lenguaje": "Php",
-    "main": "Php",
+    "main": "php",
     "nivel": "Fullstack"
   },
   {
     "curso": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
     "lenguaje": "Html, Css, Javascript, Ajax, Php, Mysql",
-    "main": "Php",
+    "main": "php",
     "nivel": "Fullstack"
   },
   {
     "curso": "Desarrollo Web en PHP, MVC, POO y MySQL - Tienda Virtual",
     "lenguaje": "Html, Css, Php, Mysql",
-    "main": "Php",
+    "main": "php",
     "nivel": "Fullstack"
   },
   {
     "curso": "Inicia con TALL Usa Tailwind, Alpine, Laravel y Livewire",
     "lenguaje": "Javascript, Tailwind, Alpine, Laravel, Livewire",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Fullstack"
   },
   {
     "curso": "JavaScript Moderno Guía Definitiva Construye +15 Proyectos",
     "lenguaje": "Javascript",
-    "main": "Javascript",
+    "main": "javascript",
     "nivel": "Fullstack"
   },
   {
     "curso": "Master en PHP Moderno 7 y 8 POO, PDO, Mysql, SQL, PostgreSQL",
     "lenguaje": "Php, POO, PDO, Mysql, SQL, PostgreSQL",
-    "main": "Php",
+    "main": "php",
     "nivel": "Fullstack"
   },
   {
     "curso": "React - La Guía Completa Hooks Context Redux MERN +15 Apps",
     "lenguaje": "ReactJs",
-    "main": "ReactJs",
+    "main": "reactjs",
     "nivel": "Fullstack"
   },
   {
     "curso": "Sistema de venta en PHP 8 POO MVC con MySQL PDO full stack",
     "lenguaje": "Php, MVC, POO, PDO, Mysql",
-    "main": "Php",
+    "main": "php",
     "nivel": "Fullstack"
   },
   {
@@ -506,13 +506,13 @@
   {
     "curso": "Crea un sitio web de reservas con Wordpress, Divi y Woocommerce",
     "lenguaje": "Wordpress",
-    "main": "Wordpress",
+    "main": "wordpress",
     "nivel": "Básico"
   },
   {
     "curso": "Aprende a hacer tu página web con wordpress",
     "lenguaje": "Wordpress",
-    "main": "Wordpress",
+    "main": "wordpress",
     "nivel": "Básico"
   }
 ]

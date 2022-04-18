@@ -294,6 +294,12 @@
     "nivel": "Avanzado"
   },
   {
+    "curso": "Curso Avanbzado de NodeJs",
+    "lenguaje": "NodeJs",
+    "main": "nodejs",
+    "nivel": "Avanzado"
+  },
+  {
     "curso": "Curso de Server Side Render con Express",
     "lenguaje": "",
     "main": "",
@@ -366,10 +372,16 @@
     "nivel": "Básico"
   },
   {
+    "curso": "Master en Python 3.x. Aprende de 0 a EXPERTO con Práctica",
+    "lenguaje": "Python",
+    "main": "python",
+    "nivel": "Cero a Cien"
+  },
+  {
     "curso": "Curso completo de Python 3 de la A a la Z",
     "lenguaje": "Python",
     "main": "python",
-    "nivel": "Cero a cien"
+    "nivel": "Cero a Cien"
   },
   {
     "curso": "Universidad Python 2021 - POO, Django, Flask y Postgresql",
@@ -399,13 +411,13 @@
     "curso": "Angular de Cero a Experto",
     "lenguaje": "Angular",
     "main": "angular",
-    "nivel": "Cero a cien"
+    "nivel": "Cero a Cien"
   },
   {
     "curso": "Node de cero a Experto",
     "lenguaje": "NodeJs",
     "main": "nodejs",
-    "nivel": "Cero a cien"
+    "nivel": "Cero a Cien"
   },
   {
     "curso": "Como crear tu Propio Entorno de Escritorio en Arch Linux",
@@ -507,7 +519,7 @@
     "curso": "SQL - Curso completo de Bases de Datos - de 0 a Avanzado",
     "lenguaje": "MySql",
     "main": "mysql",
-    "nivel": "De cero a Cien"
+    "nivel": "De Cero a Cien"
   },
   {
     "curso": "Crea un sitio web de reservas con Wordpress, Divi y Woocommerce",
@@ -519,6 +531,12 @@
     "curso": "Aprende a hacer tu página web con wordpress",
     "lenguaje": "Wordpress",
     "main": "wordpress",
+    "nivel": "Básico"
+  },
+  {
+    "curso": "Curso de Sistemas Operativos",
+    "lenguaje": "Sistemas Operativos",
+    "main": "sistemas",
     "nivel": "Básico"
   }
 ]

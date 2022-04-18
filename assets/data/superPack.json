@@ -324,6 +324,12 @@
     "nivel": "Avanzado"
   },
   {
+    "curso": "Curso de Bootstrap",
+    "lenguaje": "Bootstrap",
+    "main": "bootstrap",
+    "nivel": "Intermedio"
+  },
+  {
     "curso": "Javascript para niños",
     "lenguaje": "Javascript",
     "main": "javascript",

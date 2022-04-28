@@ -360,6 +360,24 @@
     "nivel": "Intermedio"
   },
   {
+    "curso": "Java Básico",
+    "lenguaje": "Java",
+    "main": "java",
+    "nivel": "Básico"
+  },
+  {
+    "curso": "Universidad Java",
+    "lenguaje": "Java",
+    "main": "java",
+    "nivel": "De Cero a Cien"
+  },
+  {
+    "curso": "Flutter Web Aplicaciones y Páginas Web Profesionales",
+    "lenguaje": "Flutter",
+    "main": "flutter",
+    "nivel": "Intermedio"
+  },
+  {
     "curso": "Introducción al Desarrollo Web con PHP",
     "lenguaje": "Php",
     "main": "php",
@@ -396,6 +414,12 @@
     "nivel": "Avanzado"
   },
   {
+    "curso": "Universidad Python - POO, Django, Flask y PostgreSql",
+    "lenguaje": "Python, POO, Django, Flask y PostgreSql",
+    "main": "python",
+    "nivel": "De cero a Cien"
+  },
+  {
     "curso": "El Lenguaje C desde Cero",
     "lenguaje": "C",
     "main": "c",
@@ -412,6 +436,12 @@
     "lenguaje": "Angular",
     "main": "angular",
     "nivel": "Cero a Cien"
+  },
+  {
+    "curso": "Universidad Angular - De cero a Cien en Angular",
+    "lenguaje": "Angular, Javascript",
+    "main": "angular",
+    "nivel": "De Cero a Cien"
   },
   {
     "curso": "Node de cero a Experto",
@@ -460,6 +490,12 @@
     "lenguaje": "Angular",
     "main": "angular",
     "nivel": "Avanzado"
+  },
+  {
+    "curso": "Todo PHP y MySql - De básico a Experto",
+    "lenguaje": "Php, Mysql",
+    "main": "php",
+    "nivel": "De Cero a Cien"
   },
   {
     "curso": "Desarrollo Profesional de Temas y Plugins de WordPress Udemy",
@@ -514,6 +550,13 @@
     "lenguaje": "ASP.NET, MVC, C#, SQL",
     "main": "c",
     "nivel": "Fullstack"
+  },
+  
+  {
+    "curso": "Aprende SQL desde cero",
+    "lenguaje": "MySql",
+    "main": "mysql",
+    "nivel": "Básico"
   },
   {
     "curso": "SQL - Curso completo de Bases de Datos - de 0 a Avanzado",

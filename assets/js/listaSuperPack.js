@@ -22,7 +22,9 @@ fetch('./assets/data/superPack.json')
         `;
       });
     document.getElementById('listaTodos').innerHTML = li;
-   
+    
+    const numCursos = data.length;
+    document.getElementById('numCursos').innerHTML = numCursos;
 });
 
 

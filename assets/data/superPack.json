@@ -354,6 +354,12 @@
     "nivel": "Básico"
   },
   {
+    "curso": "JavaScript Moderno Guía para dominar el lenguaje",
+    "lenguaje": "Javascript",
+    "main": "javascript",
+    "nivel": "Intermedio"
+  },
+  {
     "curso": "Curso Profesional de Javascript 2021",
     "lenguaje": "Javascript",
     "main": "javascript",
@@ -520,7 +526,7 @@
     "lenguaje": "Javascript, Tailwind, Alpine, Laravel, Livewire",
     "main": "javascript",
     "nivel": "Fullstack"
-  },
+  },  
   {
     "curso": "JavaScript Moderno Guía Definitiva Construye +15 Proyectos",
     "lenguaje": "Javascript",

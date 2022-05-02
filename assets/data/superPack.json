@@ -1,591 +1,866 @@
 [
   {
-    "curso": "Git y Github",
+    "curso": "Curso Profesional de Git y Github",
     "lenguaje": "Git",
     "main": "git",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Freddy Vega",
+    "duracion": 6
   },
   {
     "curso": "Definitivo HTML",
     "lenguaje": "Html",
     "main": "html",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Diego De Granda",
+    "duracion": 7
   },
   {
     "curso": "Práctico Html y Css",
     "lenguaje": "Html, css",
     "main": "html",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Diego De Granda",
+    "duracion": 2
   },
   {
     "curso": "Responsive Design",
     "lenguaje": "Css",
     "main": "css",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Diego De Granda",
+    "duracion": 5
   },
   {
     "curso": "Sistemas de Diseño",
     "lenguaje": "Sistemas de diseño",
     "main": "sistemas",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Rulótico González",
+    "duracion": 3
   },
   {
     "curso": "Css Grid Layout",
     "lenguaje": "Css",
     "main": "css",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Básico de Javascript",
-    "lenguaje": "Javascript",
-    "main": "javascript",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Debugging con Chrome Layout",
-    "lenguaje": "Chrome",
-    "main": "chrome",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Curso de ECMAScript 6+",
-    "lenguaje": "Javascript",
-    "main": "javascript",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Curso Profesional de Javascript",
-    "lenguaje": "Javascript",
-    "main": "javascript",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Closures y Scope en Javascript",
-    "lenguaje": "Javascript",
-    "main": "javascript",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Asincronismo con Javascript",
-    "lenguaje": "Javascript",
-    "main": "javascript",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Accesibilidad Web",
-    "lenguaje": "Html, Css",
-    "main": "html",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Single Page Aplication con Javascript Vanilla",
-    "lenguaje": "Javascript, Vanilla",
-    "main": "javascript",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Router para Single Page App con Javascript",
-    "lenguaje": "Javascript",
-    "main": "javascript",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Gestión de dependencias y paquetes con NPM",
-    "lenguaje": "Npm",
-    "main": "npm",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Curso de WebPack",
-    "lenguaje": "Webpack",
-    "main": "webpack",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Curso de Postman",
-    "lenguaje": "Postman",
-    "main": "postman",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Estefany Aguilar",
+    "duracion": 4
   },
   {
     "curso": "Curso de Frontend Developer",
     "lenguaje": "Hal, Css, Javascript",
     "main": "javascript",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Estefany Aguilar",
+    "duracion": 3
   },
   {
-    "curso": "Javascript Testing con Jet",
+    "curso": "Debugging con Chrome Devtools",
+    "lenguaje": "Chrome",
+    "main": "chrome",
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Diego De Granda",
+    "duracion": 2
+  },
+  {
+    "curso": "Asincronismo con Javascript",
     "lenguaje": "Javascript",
     "main": "javascript",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 1
   },
   {
     "curso": "Curso de Diseño Web con CSS Grid y Flexbox",
     "lenguaje": "Css",
     "main": "css",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Curso de JavaScript Engine (V8) y el Navegador",
-    "lenguaje": "Javascript",
-    "main": "javascript",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Estefany Aguilar",
+    "duracion": 3
   },
   {
     "curso": "Curso de Responsive Design Maquetación Mobile First",
     "lenguaje": "Css",
     "main": "css",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Diego Da Granda",
+    "duracion": 5
   },
   {
     "curso": "Curso de optimizacion web",
     "lenguaje": "",
     "main": "",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Curso de Manipulación del DOM",
-    "lenguaje": "",
-    "main": "",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Curso de Estructuras de Datos con JavaScript",
-    "lenguaje": "Javascript",
-    "main": "javascript",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Curso Básico de Web Components con JavaScript",
-    "lenguaje": "Javascript",
-    "main": "javascript",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Jonathan Alvarez",
+    "duracion": 7
   },
   {
     "curso": "Curso Práctico de Maquetación en CSS",
     "lenguaje": "Css",
     "main": "css",
-    "nivel": "Basico"
-  },
-  {
-    "curso": "Preprocesadores CSS",
-    "lenguaje": "Css",
-    "main": "css",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso de Saas",
-    "lenguaje": "Saas",
-    "main": "saas",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso de React.Js",
-    "lenguaje": "Javascript, React",
-    "main": "reactjs",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso Práctico de ReactJs",
-    "lenguaje": "Javascript, React",
-    "main": "reactjs",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso de React Router y Redux",
-    "lenguaje": "Javascript, React",
-    "main": "reactjs",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso Profesional de React Hooks",
-    "lenguaje": "Javascript, React",
-    "main": "reactjs",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso de React Avanzado",
-    "lenguaje": "Javascript, React",
-    "main": "reactjs",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Fundamentos de TypeScript",
-    "lenguaje": "Javascript",
-    "main": "javascript",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso de Angular",
-    "lenguaje": "Javascript. Angular",
-    "main": "angular",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso Profesional de Angular",
-    "lenguaje": "Javascript, Angular",
-    "main": "angular",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso Básico de Vue Js",
-    "lenguaje": "Javascript, Vue",
-    "main": "vue",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso Avanzado de Vue Js",
-    "lenguaje": "Javascript, Vue",
-    "main": "vue",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso Profesional de Vue Js",
-    "lenguaje": "Javascript, Vue",
-    "main": "vue",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso de Svelte",
-    "lenguaje": "Svelte",
-    "main": "svelte",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso de Sapper",
-    "lenguaje": "Sapper",
-    "main": "svelte",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Curso de Svelte y Sapper",
-    "lenguaje": "Svelte, Sapper",
-    "main": "svelte",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Introducción al despliegue de aplicaciones",
-    "lenguaje": "",
-    "main": "",
-    "nivel": "Avanzado"
-  },
-  {
-    "curso": "Fundamentos de NodeJs",
-    "lenguaje": "NodeJs",
-    "main": "nodejs",
-    "nivel": "Avanzado"
-  },
-  {
-    "curso": "Curso de NodeJs",
-    "lenguaje": "NodeJs",
-    "main": "nodejs",
-    "nivel": "Avanzado"
-  },
-  {
-    "curso": "Curso Práctico de NodeJs",
-    "lenguaje": "NodeJs",
-    "main": "nodejs",
-    "nivel": "Avanzado"
-  },
-  {
-    "curso": "Curso de Backend con NodeJs",
-    "lenguaje": "NodeJs",
-    "main": "nodejs",
-    "nivel": "Avanzado"
-  },
-  {
-    "curso": "Curso Avanzado de NodeJs",
-    "lenguaje": "NodeJs",
-    "main": "nodejs",
-    "nivel": "Avanzado"
-  },
-  {
-    "curso": "Curso de Server Side Render con Express",
-    "lenguaje": "",
-    "main": "",
-    "nivel": "Avanzado"
-  },
-  {
-    "curso": "Autenticación con Passport",
-    "lenguaje": "Nest Js",
-    "main": "nodejs",
-    "nivel": "Avanzado"
-  },
-  {
-    "curso": "Curso de Integración Backend y Frontend",
-    "lenguaje": "Javascript",
-    "main": "javascript",
-    "nivel": "Avanzado"
-  },
-  {
-    "curso": "Curso de Next Js",
-    "lenguaje": "Next Js",
-    "main": "nextjs",
-    "nivel": "Avanzado"
-  },
-  {
-    "curso": "Curso Práctico de Arquitectura Backend",
-    "lenguaje": "Php, Java, Javascript, MySql",
-    "main": "php",
-    "nivel": "Avanzado"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Diego Da Granda",
+    "duracion": 3
   },
   {
     "curso": "Curso de Bootstrap",
     "lenguaje": "Bootstrap",
     "main": "bootstrap",
-    "nivel": "Intermedio"
+    "nivel": "Basico",
+    "Plataforma": "Platzi",
+    "Profesor": "Sacha Lifszyc",
+    "duracion": 2
+  },
+  {
+    "curso": "Curso de ECMAScript 6+",
+    "lenguaje": "Javascript",
+    "main": "javascript",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 2
+  },
+  {
+    "curso": "Curso Profesional de Javascript",
+    "lenguaje": "Javascript",
+    "main": "javascript",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Richard Kaufman",
+    "duracion": 6
+  },
+  {
+    "curso": "Closures y Scope en Javascript",
+    "lenguaje": "Javascript",
+    "main": "javascript",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 1
+  },
+  {
+    "curso": "Básico de Javascript",
+    "lenguaje": "Javascript",
+    "main": "javascript",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Diego De Granda",
+    "duracion": 3
+  },
+  {
+    "curso": "Accesibilidad Web",
+    "lenguaje": "Html, Css",
+    "main": "html",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Juliana Gómez",
+    "duracion": 3
+  },
+  {
+    "curso": "Single Page Aplication con Javascript Vanilla",
+    "lenguaje": "Javascript, Vanilla",
+    "main": "javascript",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 2
+  },
+  {
+    "curso": "Router para Single Page App con Javascript",
+    "lenguaje": "Javascript",
+    "main": "javascript",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Ricardo Celis",
+    "duracion": 1
+  },
+  {
+    "curso": "Gestión de dependencias y paquetes con NPM",
+    "lenguaje": "Npm",
+    "main": "npm",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 1
+  },
+  {
+    "curso": "Curso de WebPack",
+    "lenguaje": "Webpack",
+    "main": "webpack",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 3
+  },
+  {
+    "curso": "Curso de Postman",
+    "lenguaje": "Postman",
+    "main": "postman",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Eduardo Alvarez",
+    "duracion": 2
+  },
+  {
+    "curso": "Javascript Testing con Jet",
+    "lenguaje": "Javascript",
+    "main": "javascript",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Nicolas Medina",
+    "duracion": 2
+  },
+  {
+    "curso": "Curso de JavaScript Engine (V8) y el Navegador",
+    "lenguaje": "Javascript",
+    "main": "javascript",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Diego De Granda",
+    "duracion": 1
+  },
+  {
+    "curso": "Curso de Manipulación del DOM",
+    "lenguaje": "",
+    "main": "",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Jonathan Alvarez",
+    "duracion": 4
+  },
+  {
+    "curso": "Curso de Estructuras de Datos con JavaScript",
+    "lenguaje": "Javascript",
+    "main": "javascript",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Diego Da Granda",
+    "duracion": 4
+  },
+  {
+    "curso": "Curso Básico de Web Components con JavaScript",
+    "lenguaje": "Javascript",
+    "main": "javascript",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Diego Da Granda",
+    "duracion": 3
+  },
+  {
+    "curso": "Preprocesadores CSS",
+    "lenguaje": "Css",
+    "main": "css",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Wilson Sánchez",
+    "duracion": 6
+  },
+  {
+    "curso": "Curso de Saas",
+    "lenguaje": "Saas",
+    "main": "saas",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "",
+    "duracion": 3
+  },
+  {
+    "curso": "Fundamentos de TypeScript",
+    "lenguaje": "Javascript",
+    "main": "javascript",
+    "nivel": "Intermedio",
+    "Plataforma": "Platzi",
+    "Profesor": "Nicolás Molina",
+    "duracion": 3
+  },
+  {
+    "curso": "Curso de React.Js",
+    "lenguaje": "Javascript, React",
+    "main": "reactjs",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Juan David Castro",
+    "duracion": 5
+  },
+  {
+    "curso": "Curso Práctico de ReactJs",
+    "lenguaje": "Javascript, React",
+    "main": "reactjs",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 5
+  },
+  {
+    "curso": "Curso de React Router y Redux",
+    "lenguaje": "Javascript, React",
+    "main": "reactjs",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 3
+  },
+  {
+    "curso": "Curso Profesional de React Hooks",
+    "lenguaje": "Javascript, React",
+    "main": "reactjs",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 6
+  },
+  {
+    "curso": "Curso de React Avanzado",
+    "lenguaje": "Javascript, React",
+    "main": "reactjs",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Miguel Angel Durán",
+    "duracion": 6
+  },
+  {
+    "curso": "Curso de Angular",
+    "lenguaje": "Javascript. Angular",
+    "main": "angular",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Nicolás Molina",
+    "duracion": 3
+  },
+  {
+    "curso": "Curso Profesional de Angular",
+    "lenguaje": "Javascript, Angular",
+    "main": "angular",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Nicolás Molina",
+    "duracion": 3
+  },
+  {
+    "curso": "Curso Básico de Vue Js",
+    "lenguaje": "Javascript, Vue",
+    "main": "vue",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Diana Martínez",
+    "duracion": 5
+  },
+  {
+    "curso": "Curso Avanzado de Vue Js",
+    "lenguaje": "Javascript, Vue",
+    "main": "vue",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Jorge Bauman",
+    "duracion": 4
+  },
+  {
+    "curso": "Curso Profesional de Vue Js",
+    "lenguaje": "Javascript, Vue",
+    "main": "vue",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Ignacio Anaya",
+    "duracion": 9
+  },
+  {
+    "curso": "Curso de Svelte",
+    "lenguaje": "Svelte",
+    "main": "svelte",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 3
+  },
+  {
+    "curso": "Curso de Sapper",
+    "lenguaje": "Sapper",
+    "main": "svelte",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 2
+  },
+  {
+    "curso": "Curso de Svelte y Sapper",
+    "lenguaje": "Svelte, Sapper",
+    "main": "svelte",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 4
+  },
+  {
+    "curso": "Introducción al despliegue de aplicaciones",
+    "lenguaje": "",
+    "main": "",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Santiago Bernal",
+    "duracion": 1
+  },
+  {
+    "curso": "Fundamentos de NodeJs",
+    "lenguaje": "NodeJs",
+    "main": "nodejs",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Carlos Hernández",
+    "duracion": 5
+  },
+  {
+    "curso": "Curso de NodeJs",
+    "lenguaje": "NodeJs",
+    "main": "nodejs",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Carlos Hernández",
+    "duracion": 5
+  },
+  {
+    "curso": "Curso Práctico de NodeJs",
+    "lenguaje": "NodeJs",
+    "main": "nodejs",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Carlos Hernández",
+    "duracion": 4
+  },
+  {
+    "curso": "Curso de Backend con NodeJs",
+    "lenguaje": "NodeJs",
+    "main": "nodejs",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Nicolas Molina",
+    "duracion": 3
+  },
+  {
+    "curso": "Curso Avanzado de NodeJs",
+    "lenguaje": "NodeJs",
+    "main": "nodejs",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Nicolas Molina",
+    "duracion": 3
+  },
+  {
+    "curso": "Curso de Server Side Render con Express",
+    "lenguaje": "",
+    "main": "",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Carlos Sampol",
+    "duracion": 3
+  },
+  {
+    "curso": "Autenticación con Passport y JWT",
+    "lenguaje": "Nest Js",
+    "main": "nodejs",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Nicolas Molina",
+    "duracion": 3
+  },
+  {
+    "curso": "Curso de Integración Backend y Frontend",
+    "lenguaje": "Javascript",
+    "main": "javascript",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Oscar Barajas Tavares",
+    "duracion": 2
+  },
+  {
+    "curso": "Curso de Next Js",
+    "lenguaje": "Next Js",
+    "main": "nextjs",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Jonathan Alvarez",
+    "duracion": 4
+  },
+  {
+    "curso": "Curso Práctico de Arquitectura Backend",
+    "lenguaje": "Php, Java, Javascript, MySql",
+    "main": "php",
+    "nivel": "Avanzado",
+    "Plataforma": "Platzi",
+    "Profesor": "Jorge Villalobos",
+    "duracion": 4
   },
   {
     "curso": "Javascript para niños",
     "lenguaje": "Javascript",
     "main": "javascript",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Edteam",
+    "Profesor": "Marina Charris",
+    "duracion": 5
   },
   {
     "curso": "Fundamentos de Javascript",
     "lenguaje": "Javascript",
     "main": "javascript",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Crehana",
+    "Profesor": "Sergio Agamez",
+    "duracion": 11
   },
   {
     "curso": "Fundamentos de Programación con Javascript",
     "lenguaje": "Javascript",
     "main": "javascript",
-    "nivel": "Básico"
+    "nivel": "Básico",
+    "Plataforma": "Mastermind",
+    "Profesor": "Martin Akka",
+    "duracion": 7
   },
   {
     "curso": "JavaScript Moderno Guía para dominar el lenguaje",
     "lenguaje": "Javascript",
     "main": "javascript",
-    "nivel": "Intermedio"
+    "nivel": "Intermedio",
+    "Plataforma": "Udemy",
+    "Profesor": "Fernando Herrera",
+    "duracion": 18
   },
   {
     "curso": "Curso Profesional de Javascript 2021",
     "lenguaje": "Javascript",
     "main": "javascript",
-    "nivel": "Intermedio"
+    "nivel": "Intermedio",
+    "Plataforma": "Udemy",
+    "Profesor": "Marcos Rivas Rojas",
+    "duracion": 28
   },
   {
     "curso": "Java Básico",
     "lenguaje": "Java",
     "main": "java",
-    "nivel": "Básico"
+    "nivel": "Básico",
+    "Plataforma": "",
+    "Profesor": "",
+    "duracion": 12
   },
   {
     "curso": "Universidad Java",
     "lenguaje": "Java",
     "main": "java",
-    "nivel": "De Cero a Cien"
+    "nivel": "De Cero a Cien",
+    "Plataforma": "Udemy",
+    "Profesor": "Ubaldo Acosta",
+    "duracion": 106
   },
   {
     "curso": "Flutter Web Aplicaciones y Páginas Web Profesionales",
     "lenguaje": "Flutter",
     "main": "flutter",
-    "nivel": "Intermedio"
-  },
-  {
-    "curso": "Introducción al Desarrollo Web con PHP",
-    "lenguaje": "Php",
-    "main": "php",
-    "nivel": "Básico"
+    "nivel": "Intermedio",
+    "Plataforma": "Udemy",
+    "Profesor": "Fernando Herrera",
+    "duracion": 21
   },
   {
     "curso": "Aprende a programar con Python",
     "lenguaje": "Python",
     "main": "python",
-    "nivel": "Básico"
+    "nivel": "Básico",
+    "Plataforma": "Mastermind",
+    "Profesor": "Nate Gentile",
+    "duracion": 13
   },
   {
     "curso": "Master en Python 3.x. Aprende de 0 a EXPERTO con Práctica",
     "lenguaje": "Python",
     "main": "python",
-    "nivel": "Cero a Cien"
+    "nivel": "Cero a Cien",
+    "Plataforma": "Udemy",
+    "Profesor": "Alvaro Chirou",
+    "duracion": 26
   },
   {
     "curso": "Curso completo de Python 3 de la A a la Z",
     "lenguaje": "Python",
     "main": "python",
-    "nivel": "Cero a Cien"
-  },
-  {
-    "curso": "Universidad Python 2021 - POO, Django, Flask y Postgresql",
-    "lenguaje": "Python, Django, Flaxk, Postgresql",
-    "main": "python",
-    "nivel": "Avanzado"
+    "nivel": "Cero a Cien",
+    "Plataforma": "Udemy",
+    "Profesor": "Juan Gabriel Gomila",
+    "duracion": 55
   },
   {
     "curso": "Python sin fronteras HTML, CSS, Flask y MySQL",
     "lenguaje": "Python, Html, Css, Flask, Mysql",
     "main": "python",
-    "nivel": "Avanzado"
+    "nivel": "Avanzado",
+    "Plataforma": "Udemy",
+    "Profesor": "Nicolas Schurmann",
+    "duracion": 25
   },
   {
     "curso": "Universidad Python - POO, Django, Flask y PostgreSql",
     "lenguaje": "Python, POO, Django, Flask y PostgreSql",
     "main": "python",
-    "nivel": "De cero a Cien"
+    "nivel": "De cero a Cien",
+    "Plataforma": "Udemy",
+    "Profesor": "Ubaldo Acosta",
+    "duracion": 71
   },
   {
     "curso": "El Lenguaje C desde Cero",
     "lenguaje": "C",
     "main": "c",
-    "nivel": "Básico"
+    "nivel": "Básico",
+    "Plataforma": "Mastermind",
+    "Profesor": "Nate Gentile",
+    "duracion": 3
   },
   {
     "curso": "Figma desde cero",
     "lenguaje": "Figma",
     "main": "figma",
-    "nivel": "Básico"
+    "nivel": "Básico",
+    "Plataforma": "Edteam",
+    "Profesor": "Alvaro Felipe",
+    "duracion": 12
   },
   {
     "curso": "Angular de Cero a Experto",
     "lenguaje": "Angular",
     "main": "angular",
-    "nivel": "Cero a Cien"
+    "nivel": "Cero a Cien",
+    "Plataforma": "Udemy",
+    "Profesor": "Fernando Herrera",
+    "duracion": 44
   },
   {
     "curso": "Universidad Angular - De cero a Cien en Angular",
     "lenguaje": "Angular, Javascript",
     "main": "angular",
-    "nivel": "De Cero a Cien"
+    "nivel": "De Cero a Cien",
+    "Plataforma": "Udemy",
+    "Profesor": "Ubaldo Acosta",
+    "duracion": 52
   },
   {
     "curso": "Node de cero a Experto",
     "lenguaje": "NodeJs",
     "main": "nodejs",
-    "nivel": "Cero a Cien"
+    "nivel": "Cero a Cien",
+    "Plataforma": "Udemy",
+    "Profesor": "Fernando Herrera",
+    "duracion": 28
   },
   {
     "curso": "Como crear tu Propio Entorno de Escritorio en Arch Linux",
     "lenguaje": "Linux",
     "main": "linux",
-    "nivel": "Intermedio"
+    "nivel": "Intermedio",
+    "Plataforma": "Mastermind",
+    "Profesor": "Antonio Sarosi",
+    "duracion": 9
   },
   {
     "curso": "Desde 0 hasta Maestro - Creando el Backend con la PokeAPI",
     "lenguaje": "Javascript",
     "main": "javascript",
-    "nivel": "Backend"
+    "nivel": "Backend",
+    "Plataforma": "Mastermind",
+    "Profesor": "Martin Akka",
+    "duracion": ""
   },
   {
     "curso": "Crea tu primer Robot con Arduino",
     "lenguaje": "Arduino",
     "main": "arduino",
-    "nivel": "Basico"
+    "nivel": "Basico",
+    "Plataforma": "Mastermind",
+    "Profesor": "Edgar Pons",
+    "duracion": 7
   },
   {
     "curso": "Creación de una Style Guide para Apps",
     "lenguaje": "Diseño",
     "main": "sistemas",
-    "nivel": "Básico"
+    "nivel": "Básico",
+    "Plataforma": "Doméstika",
+    "Profesor": "Christian Viscarra",
+    "duracion": 2
   },
   {
     "curso": "Creando mi primer Videojuego",
     "lenguaje": "Unity",
     "main": "unity",
-    "nivel": "Básico"
+    "nivel": "Básico",
+    "Plataforma": "Mastermind",
+    "Profesor": "Claudi Lazaro",
+    "duracion": 6
   },
   {
     "curso": "Curso de Html y Css Básico",
     "lenguaje": "Html, Css",
     "main": "html",
-    "nivel": "Básico"
+    "nivel": "Básico",
+    "Plataforma": "Mastermind",
+    "Profesor": "Nate Gentile",
+    "duracion": 3
   },
   {
     "curso": "REDUX en Angular con NGRX Desde las bases hasta la práctica",
     "lenguaje": "Angular",
     "main": "angular",
-    "nivel": "Avanzado"
+    "nivel": "Avanzado",
+    "Plataforma": "Udemy",
+    "Profesor": "Fernando Herrera",
+    "duracion": 45
   },
   {
     "curso": "Todo PHP y MySql - De básico a Experto",
     "lenguaje": "Php, Mysql",
     "main": "php",
-    "nivel": "De Cero a Cien"
+    "nivel": "De Cero a Cien",
+    "Plataforma": "Udemy",
+    "Profesor": "Francisco Javier Arce",
+    "duracion": 63
   },
   {
     "curso": "Desarrollo Profesional de Temas y Plugins de WordPress Udemy",
     "lenguaje": "Php",
     "main": "php",
-    "nivel": "Fullstack"
+    "nivel": "Fullstack",
+    "Plataforma": "Udemy",
+    "Profesor": "Juan Pablo de la Torre",
+    "duracion": 33
   },
   {
     "curso": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
     "lenguaje": "Html, Css, Javascript, Ajax, Php, Mysql",
     "main": "php",
-    "nivel": "Fullstack"
+    "nivel": "Fullstack",
+    "Plataforma": "Udemy",
+    "Profesor": "Juan Pablo de la Torre",
+    "duracion": 79
   },
   {
     "curso": "Desarrollo Web en PHP, MVC, POO y MySQL - Tienda Virtual",
     "lenguaje": "Html, Css, Php, Mysql",
     "main": "php",
-    "nivel": "Fullstack"
+    "nivel": "Fullstack",
+    "Plataforma": "Udemy",
+    "Profesor": "Abel OjS Shicay",
+    "duracion": 73
   },
   {
     "curso": "Inicia con TALL Usa Tailwind, Alpine, Laravel y Livewire",
     "lenguaje": "Javascript, Tailwind, Alpine, Laravel, Livewire",
     "main": "javascript",
-    "nivel": "Fullstack"
-  },  
+    "nivel": "Fullstack",
+    "Plataforma": "Udemy",
+    "Profesor": "JuanD Megon",
+    "duracion": 45
+  },
   {
     "curso": "JavaScript Moderno Guía Definitiva Construye +15 Proyectos",
     "lenguaje": "Javascript",
     "main": "javascript",
-    "nivel": "Fullstack"
+    "nivel": "Fullstack",
+    "Plataforma": "Udemy",
+    "Profesor": "Juan Pablo de la Torre",
+    "duracion": 47
   },
   {
     "curso": "Master en PHP Moderno 7 y 8 POO, PDO, Mysql, SQL, PostgreSQL",
     "lenguaje": "Php, POO, PDO, Mysql, SQL, PostgreSQL",
     "main": "php",
-    "nivel": "Fullstack"
+    "nivel": "Fullstack",
+    "Plataforma": "Udemy",
+    "Profesor": "Render2web",
+    "duracion": 29
   },
   {
     "curso": "React - La Guía Completa Hooks Context Redux MERN +15 Apps",
     "lenguaje": "ReactJs",
     "main": "reactjs",
-    "nivel": "Fullstack"
+    "nivel": "Fullstack",
+    "Plataforma": "Udemy",
+    "Profesor": "Juan Pablo de la Torre",
+    "duracion": 67
   },
   {
     "curso": "Sistema de venta en PHP 8 POO MVC con MySQL PDO full stack",
     "lenguaje": "Php, MVC, POO, PDO, Mysql",
     "main": "php",
-    "nivel": "Fullstack"
+    "nivel": "Fullstack",
+    "Plataforma": "Udemy",
+    "Profesor": "Alex Joel Pagoada",
+    "duracion": 41
   },
   {
     "curso": "Sistema de ventas en ASP.NET MVC en C# and SQL full stack",
     "lenguaje": "ASP.NET, MVC, C#, SQL",
     "main": "c",
-    "nivel": "Fullstack"
+    "nivel": "Fullstack",
+    "Plataforma": "Udemy",
+    "Profesor": "Alex Joel Pagoada",
+    "duracion": 45
   },
-  
   {
     "curso": "Aprende SQL desde cero",
     "lenguaje": "MySql",
     "main": "mysql",
-    "nivel": "Básico"
+    "nivel": "Básico",
+    "Plataforma": "Udemy",
+    "Profesor": "Numpi",
+    "duracion": 5
   },
   {
     "curso": "SQL - Curso completo de Bases de Datos - de 0 a Avanzado",
     "lenguaje": "MySql",
     "main": "mysql",
-    "nivel": "De Cero a Cien"
+    "nivel": "De Cero a Cien",
+    "Plataforma": "Udemy",
+    "Profesor": "Pablo Tilotta",
+    "duracion": 23
   },
   {
     "curso": "Crea un sitio web de reservas con Wordpress, Divi y Woocommerce",
     "lenguaje": "Wordpress",
     "main": "wordpress",
-    "nivel": "Básico"
+    "nivel": "Básico",
+    "Plataforma": "",
+    "Profesor": "",
+    "duracion": 3
   },
   {
     "curso": "Aprende a hacer tu página web con wordpress",
     "lenguaje": "Wordpress",
     "main": "wordpress",
-    "nivel": "Básico"
+    "nivel": "Básico",
+    "Plataforma": "",
+    "Profesor": "",
+    "duracion": 3
   },
   {
     "curso": "Curso de Sistemas Operativos",
     "lenguaje": "Sistemas Operativos",
     "main": "sistemas",
-    "nivel": "Básico"
+    "nivel": "Básico",
+    "Plataforma": "Mastermind",
+    "Profesor": "Antonio Sarosi",
+    "duracion": 4
   }
 ]

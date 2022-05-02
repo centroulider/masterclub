@@ -25,6 +25,19 @@ fetch('./assets/data/superPack.json')
     
     const numCursos = data.length;
     document.getElementById('numCursos').innerHTML = numCursos;
+    
+    
+    class horas extends Array {
+    sum(key){
+          return this.reduce((a, b) => a + (b[key] || 0), 0);
+        }
+      }
+
+    const totalDuracion = new horas(...data);
+    const totalHoras= totalDuracion.sum('duracion');
+
+     document.getElementById('total_horas').innerHTML = totalHoras;
+    
 });
 
 

@@ -17,6 +17,7 @@ fetch('./assets/data/superPack.json')
           <span class="rounded px-1 w-30 text-left border-bottom"><small>${curso.lenguaje}</small></span>
           
           <span class="rounded px-1 w-30 text-center border-bottom"><small>${curso.nivel}</small></span>
+          <span class="rounded px-1 w-30 text-center border-bottom"><small>${curso.duracion} Hs</small></span>
           
         </li></small>
         `;

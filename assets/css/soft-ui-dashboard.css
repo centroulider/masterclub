@@ -62,6 +62,11 @@ body {
   display:grid;
   grid-template-columns: repeat(3, 1fr);
 }
+
+.item-curso{
+  display:grid;
+  grid-template-columns: 1fr;
+}
 .tarjeta{
   transition: all 0.3s ease-out;
 }
@@ -24952,3 +24957,8 @@ pre[class*="language-"] {
 }
 
 /*# sourceMappingURL=dashboard-free.css.map */
+
+
+.miniText{
+  font-size: 1px; !important;
+}

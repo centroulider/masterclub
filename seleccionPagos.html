@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="icon" type="image/png" href="../assets/img/masterIcon.png">
+  <title>Pagos Super Pack</title>
+  <meta property="og:title" content="Super Pack Desarrollo Web">
+  <meta property="og:image" content="/assets/img/logos/logosSuperPack.png">
+  <meta property="og:url" content="https://masterclub30.digital/superpack-lista">
+  <!--     Fonts and icons     -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+  <!-- Font Awesome Icons -->
+  <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+  
+
+  <!-- CSS Files -->
+  <link id="pagestyle" href="../assets/css/soft-ui-dashboard.css?v=1.0.3" rel="stylesheet" />
+  <!-- Meta Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '665527971464889');
+  fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=665527971464889&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Meta Pixel Code -->
+</head>
+ 
+<body class="bg-bluedark " >
+  <div class="container p-2 justify-content-between pb-0 mt-3  rounded text-center">
+      <h2 class="py-1 rounded text-white ">Pagos seguros en<br><span class="text-success">Latinoamerica</span></h2>
+  </div>
+
+  <div class="text-center mb-3 container">
+ 
+    <div class="container  rounded  shadow-lg p-2 bg-bluedark ">
+      <div class="text-center rounded">
+        <img class="m-1 shadow" width="30px" src="./assets/img/paises/AR.svg" alt="">
+        <img class="m-1 shadow" width="30px" src="./assets/img/paises/CO.svg" alt=""> 
+        <img class="m-1 shadow" width="30px" src="./assets/img/paises/CL.svg" alt="">
+        <img class="m-1 shadow" width="30px" src="./assets/img/paises/UY.svg" alt="">
+        <img class="m-1 shadow" width="30px" src="./assets/img/paises/EC.svg" alt="">
+        <img class="m-1 shadow" width="30px" src="./assets/img/paises/PE.svg" alt="">
+        <img class="m-1 shadow" width="30px" src="./assets/img/paises/MX.svg" alt="">
+        <img class="m-1 shadow" width="30px" src="./assets/img/paises/BO.svg" alt="">
+      </div>
+    </div>
+    
+    <p class=" rounded text-light "><small>Los pagos se hacen en la plataforma que elijas.<br>Master Club NO tendrá acceso a tus datos de pago</small></p>
+    <h6 class="text-center text-white">Tarjeta de crédito, Débito, Efectivo y Transferencia Bancaria</h6>
+
+  </div>
+  
+  <div  class=" border mb-1 bg-white container" style="max-width: 996px;">
+  </div>   
+      
+  
+
+  <div class="container shadow bg-light py-3 " style="max-width: 996px;">
+    <h4 class="text-center ">Selecciona el método de pago</h4>
+    <div class="d-lg-flex gap-2">
+      <div class="shadow mb-3 mb-lg-2 p-5 rounded bg-white w-lg-50 w-100">
+        <div class="text-center"> 
+          <img class="w-50 mb-1" style="max-width: 200px" src="./assets/img/logos/directoPagoLogo.png" alt="">
+          <h5 class="text-center">Pagos en <b>Efectivo</b> y <b>Transferencia Bancaria</b> en tu país. Pagos en tu moneda local.</h5>
+        </div>
+        <div class="text-center "> 
+          <script data-reference-id="810701d9-a8d5-4768-875f-d207eeb60507">const s=document.createElement("script");s.src="https://static.directopago.com/directopago.min.js",s.async=!0,document.body.appendChild(s),s.addEventListener("load",()=>{const e=document.querySelector('script[data-reference-id="810701d9-a8d5-4768-875f-d207eeb60507"]'),t=e.parentNode,n="dp-btn-810701d9-a8d5-4768-875f-d207eeb60507",c=document.createElement("div");c.id=n,t.insertBefore(c,e);new DirectoPago("qiUKDIrsgaLlhhJbYFlHXqqepziuSxpL").createCheckout(n,{country:null,currency:"USD",amount:"14.99",lang:"",text:"Comprar Super Pack"})});</script>
+        </div>
+      </div>
+  
+  
+  
+      <div class="shadow border mb-3 mb-lg-2 p-5  rounded bg-white w-lg-50 w-100">
+        <div class="text-center"> <img class="w-50 mb-1" style="max-width: 200px" src="./assets/img/logos/paypaLogo.png" alt="">
+          <h5 class="text-center">Pagos en Tarjeta de crédito, Débito y PayPal</h5>
+        </div>
+    
+        <div id="smart-button-container">
+          <div style="text-align: center;">
+            <div id="paypal-button-container"></div>
+          </div>
+        </div>
+        <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
+          <script>
+            function initPayPalButton() {
+              paypal.Buttons({
+                style: {
+                  shape: 'rect',
+                  color: 'gold',
+                  layout: 'vertical',
+                  label: 'paypal',
+                  
+                },
+    
+                createOrder: function(data, actions) {
+                  return actions.order.create({
+                    purchase_units: [{"description":"Super Pack Desarrollo Web","amount":{"currency_code":"USD","value":14.99}}]
+                  });
+                },
+    
+                onApprove: function(data, actions) {
+                  return actions.order.capture().then(function(orderData) {
+                    
+                    // Full available details
+                    console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+    
+                    // Show a success message within this page, e.g.
+                    const element = document.getElementById('paypal-button-container');
+                    element.innerHTML = '';
+                    element.innerHTML = '<h3>Thank you for your payment!</h3>';
+    
+                    // Or go to another URL:  actions.redirect('thank_you.html');
+                    
+                  });
+                },
+    
+                onError: function(err) {
+                  console.log(err);
+                }
+              }).render('#paypal-button-container');
+            }
+            initPayPalButton();
+          </script>
+      </div>
+    </div>
+
+    <h6 class="text-center ">Recuerda enviarnos el comprobante de Pago con tu correo de Gmail para darte el acceso al Super Pack</h6>
+  </div>
+  
+</div>
+  
+
+  <script src="./assets/js/listaSuperPack.js"></script>
+</body>

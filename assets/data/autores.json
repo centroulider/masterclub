@@ -1,0 +1,107 @@
+[
+  {
+    "autor": "Diego Dreyfrus",
+    "cantidad": 5,
+    "urlImage": "./assets/img/autores/dreyfrus.jpg",
+    "url": "./autores/diego-dreyfrus.html",
+    "tags": "Desarrollo Personal"
+  },
+  {
+    "autor": "EDTeam",
+    "cantidad": 5,
+    "urlImage": "./assets/img/autores/edteam.jpg",
+    "url": "./autores/edteam.html",
+    "tags": "Marketing, Desarrollo web, Emprendimiento"
+  },
+  {
+    "autor": "Juan Lombana",
+    "cantidad": 5,
+    "urlImage": "./assets/img/autores/lombana.png",
+    "url": "./autores/juan-lombana.html",
+    "tags": "Marketing digital, Emprendimiento"
+  },
+  {
+    "autor": "Richard Blander",
+    "cantidad": 5,
+    "urlImage": "./assets/img/autores/blander.jpg",
+    "url": "./autores/richard-blander.html",
+    "tags": "Desarrollo Personal"
+  },
+  {
+    "autor": "Bruno Sanders",
+    "cantidad": 6,
+    "urlImage": "./assets/img/autores/sanders.jpg",
+    "url": "./autores/bruno-sanders.html",
+    "tags": "Marketing Digital, Emprendimiento"
+  },
+  {
+    "autor": "Krav Maga",
+    "cantidad": 6,
+    "urlImage": "./assets/img/autores/maga.jpg",
+    "url": "./autores/krav-maga.html",
+    "tags": "Defensa Personal"
+  },
+  {
+    "autor": "Guerry Sánchez",
+    "cantidad": 7,
+    "urlImage": "./assets/img/autores/guerry.jpg",
+    "url": "./autores/guerry-sanchez.html",
+    "tags": "Desarrollo Personal"
+  },
+  {
+    "autor": "Euge Oller",
+    "cantidad": 9,
+    "urlImage": "./assets/img/autores/oller.jpg",
+    "url": "./autores/euge-oller.html",
+    "tags": "Marketing digital, Lectura, Emprendimiento"
+  },
+  {
+    "autor": "Runbenguo",
+    "cantidad": 10,
+    "urlImage": "./assets/img/autores/runbenguo.jpg",
+    "url": "./autores/runbenguo.html",
+    "tags": "Edición de vídeo, Diseño gráfico, Fotografía"
+  },
+  {
+    "autor": "Udemy",
+    "cantidad": 10,
+    "urlImage": "./assets/img/autores/udemy.jpg",
+    "url": "./autores/udemy.html",
+    "tags": "Artes, Negocios, Emprendimiento"
+  },
+  {
+    "autor": "Vilma Nuñez",
+    "cantidad": 10,
+    "urlImage": "./assets/img/autores/vilma.jpg",
+    "url": "./autores/vilma-nunez.html",
+    "tags": "Marketing Digital"
+  },
+  {
+    "autor": "Jurgen Claric",
+    "cantidad": 22,
+    "urlImage": "./assets/img/autores/jurgen.jpg",
+    "url": "./autores/jurgen-clarick.html",
+    "tags": "Negocios, Marketing, Emprendimiento"
+  },
+  {
+    "autor": "Carlos Muñóz",
+    "cantidad": 35,
+    "urlImage": "./assets/img/autores/munoz.png",
+    "url": "./autores/carlos-munoz.html",
+    "tags": "Negocios, Marketing, Emprendimiento"
+  },
+  {
+    "autor": "Crehana",
+    "cantidad": 44,
+    "urlImage": "./assets/img/autores/crehana.jpg",
+    "url": "./autores/crehana.html",
+    "tags": "Artes, Negocios, Emprendimiento"
+  },
+  {
+    "autor": "Domestika",
+    "cantidad": 58,
+    "urlImage": "./assets/img/autores/domestika.jpg",
+    "url": "./autores/domestika.html",
+    "tags": "Artes, Negocios, Emprendimiento"
+  }
+]

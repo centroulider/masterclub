@@ -1,0 +1,38 @@
+[
+    {
+        "pais": "Colombia",
+        "codigoPais": "CO",
+        "current": 3925.50,
+        "moneda": "COP"
+    },
+    {
+        "pais": "Perú",
+        "codigoPais": "PE",
+        "current": 3.77,
+        "moneda": "PEN"
+    },
+    {
+        "pais": "Ecuador",
+        "codigoPais": "EC",
+        "current": 1,
+        "moneda": "USD"
+    },
+    {
+        "pais": "México",
+        "codigoPais": "MX", 
+        "current": 20.37,
+        "moneda": "MXN"
+    },
+    {
+        "pais": "Argentina",
+        "codigoPais": "AR",
+        "current": 220.90,
+        "moneda": "ARS"
+    },
+    {
+        "pais": "Chile",
+        "codigoPais": "CL",
+        "current": 869.73,
+        "moneda": "CLP"
+    }
+]

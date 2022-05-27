@@ -1,0 +1,14 @@
+[
+  { "pais": "Colombia", "country": "CO", "divisa": "COP", "valorDivisa": "", "dataReferenceId": "dba1ab80-6ba4-465f-96cc-d120379fd9aa", "parentNode": "dp-btn-dba1ab80-6ba4-465f-96cc-d120379fd9aa" },
+  { "pais": "Perú", "country": "PE", "divisa": "COP", "valorDivisa": "", "dataReferenceId": "4e69d641-e4f3-4278-9c80-8a517aecaffc", "parentNode": "dp-btn-4e69d641-e4f3-4278-9c80-8a517aecaffc" },
+  { "pais": "Argentina", "country": "AR", "divisa": "COP", "valorDivisa": "", "dataReferenceId": "767bf25a-417a-4181-915e-5e8192737dcd", "parentNode": "dp-btn-767bf25a-417a-4181-915e-5e8192737dcd" },
+  { "pais": "Chile", "country": "CL", "divisa": "COP", "valorDivisa": "", "dataReferenceId": "2d4c7ef3-3f78-4981-8826-1c235af354af", "parentNode": "dp-btn-2d4c7ef3-3f78-4981-8826-1c235af354af" },
+  { "pais": "Ecuador", "country": "EC", "divisa": "COP", "valorDivisa": "", "dataReferenceId": "17f7ce76-6b96-4948-949b-49f00791a053", "parentNode": "dp-btn-17f7ce76-6b96-4948-949b-49f00791a053" },
+  { "pais": "México", "country": "MX", "divisa": "COP", "valorDivisa": "", "dataReferenceId": "ebeeefe7-866f-4811-98bb-d50135a6887f", "parentNode": "dp-btn-ebeeefe7-866f-4811-98bb-d50135a6887f" }
+  
+]
+
+
+
+
+                                      

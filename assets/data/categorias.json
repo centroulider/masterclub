@@ -1,0 +1,47 @@
+[
+  {
+    "categoria": "Desarrollo Web",
+    "Codigo": "dw",
+    "Cantidad": 100,
+    "precio" : 29.99,
+    "tags": "JavaScript, Python, Php",
+    "imageUrl": "./assets/img/desarrollo.jpg",
+    "url": "./categorias/desarrollo-web.html"
+  },
+  {
+    "categoria": "Inglés",
+    "Codigo": "in",
+    "Cantidad": 10,
+    "precio" : 29.99,
+    "tags": "Inglés",
+    "imageUrl": "./assets/img/idiomas.jpg",
+    "url": "./categorias/idiomas.html"
+  },
+  {
+    "categoria": "Diseño Gráfico",
+    "Codigo": "dg",
+    "Cantidad": 43,
+    "precio" : 29.99,
+    "tags": "Photoshop, illustrator...",
+    "imageUrl": "./assets/img/diseno.jpg",
+    "url": "./categorias/diseno-grafico.html"
+  },
+  {
+    "categoria": "Edición de video",
+    "Codigo": "ev",
+    "Cantidad": 18,
+    "precio" : 29.99,
+    "tags": "Premiere, After Effects...",
+    "imageUrl": "./assets/img/edicion.jpg",
+    "url": "./categorias/edicion-video.html"
+  },
+  {
+    "categoria": "Marketing Digital",
+    "Codigo": "md",
+    "Cantidad": 122,
+    "precio" : 29.99,
+    "tags": "Publicidad, ventas, Tools",
+    "imageUrl": "./assets/img/marketing.jpg",
+    "url": "./categorias/marketingdigital.html"
+  }
+]

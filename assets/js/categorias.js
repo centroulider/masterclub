@@ -58,7 +58,7 @@ fetch('../assets/data/superPack.json')
             <div class="rounded text-center bg-bluedark">
                 <div class="bg-gradient-primary  pb-1  mb-2">
                 <div class="w-100 p-2">
-                    <a href="https://wa.me/573132047407+*${curso.curso}*+de+${curso.Profesor}"><img src="../assets/img/cursos/dw/${curso.curso}.avif" class="shadow-sm" width="100%" alt=""></a>
+                    <a href="https://wa.me/573132047407+*${curso.curso}*+de+${curso.Profesor}"><img src="../assets/img/cursos/${curso.codigo}/${curso.curso}.avif" class="shadow-sm" width="100%" alt=""></a>
                 </div>
                 </div>
                 <div class="px-3">

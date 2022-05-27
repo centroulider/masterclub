@@ -1,5 +1,5 @@
 // Define la fecha límite
-const finPromo = "May 26 2022 23:59:59"
+const finPromo = "May 28 2022 23:59:59"
 
 const countDownDate = new Date(finPromo).getTime();
 
@@ -20,7 +20,7 @@ const x = setInterval(function() {
   // Mensaje cuando la cuenta termina
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("countdown").innerHTML = "OFERTA TERMINADA";
+    document.getElementById("countdown").innerHTML = "OFERTA NO DISPONIBLE";
   }
 }, 1000);
 

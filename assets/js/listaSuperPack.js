@@ -1,13 +1,19 @@
-// cargaInfo();
-
-
+var urlPage = window.location.search;
+const urlParams = new URLSearchParams(urlPage);
+const cat = urlParams.get('categoria');
 
 
 fetch('./assets/data/superPack.json')
 .then(response => response.json() )
 .then(data => {
+
+  const newArray = data.filter(filtro =>{
+    return filtro.codigo == cat;
+})
+  
+
     let li = "";   
-      data.forEach(function(curso){
+      newArray.forEach(function(curso){
         li += `
         <small class="tarjeta">
         <li class="d-flex justify-content-between " ${curso.Plataforma} ${curso.Profesor}>
@@ -25,7 +31,7 @@ fetch('./assets/data/superPack.json')
       });
     document.getElementById('listaTodos').innerHTML = li;
     
-    const numCursos = data.length;
+    const numCursos = newArray.length;
     document.getElementById('numCursos').innerHTML = numCursos;
     
     
@@ -35,12 +41,13 @@ fetch('./assets/data/superPack.json')
         }
       }
 
-    const totalDuracion = new horas(...data);
+    const totalDuracion = new horas(...newArray);
     const totalHoras= totalDuracion.sum('duracion');
 
      document.getElementById('total_horas').innerHTML = totalHoras;
     
 });
+
 
 
 

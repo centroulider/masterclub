@@ -2,6 +2,15 @@ var urlPage = window.location.search;
 const urlParams = new URLSearchParams(urlPage);
 const cat = urlParams.get('categoria');
 
+const catIngles = 'in';
+
+  if (cat == catIngles) {
+    document.getElementById('volverSuperPack').classList.remove("d-none");
+    document.getElementById('bonoGratisIngles').classList.add("d-none");
+  } else{
+
+  }
+
 
 if (!cat) {
   function redirect(){
@@ -20,6 +29,19 @@ if (!cat) {
               return filtro.codigo == cat;
           })
             
+                  const {codigo, curso, lenguaje, main, nivel, Plataforma, Profesor, duracion, categoria} = newArray[0];
+
+                  const nombreCurso = curso;
+                  const nombreLenguaje = lenguaje;
+                  const tema = main;
+                  const nivelCurso = nivel;
+                  const plataforma = Plataforma;
+                  const profesor = Profesor;
+                  const duracionCurso = duracion;
+                  const nombreCategoria = categoria;
+                  const codigoCategoria = codigo;
+          
+              document.getElementById('categoryName').innerHTML = nombreCategoria;          
 
               let li = "";   
                 newArray.forEach(function(curso){

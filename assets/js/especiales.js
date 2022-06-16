@@ -1,5 +1,5 @@
 // Define la fecha límite
-const finPromo = "May 31 2022 23:59:59"
+const finPromo = "Jun 15 2022 23:59:59"
 
 const countDownDate = new Date(finPromo).getTime();
 

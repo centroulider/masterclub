@@ -2,13 +2,13 @@
     {
         "pais": "Colombia",
         "codigoPais": "CO",
-        "current": 3917.73,
+        "current": 3898.51,
         "moneda": "COP"
     },
     {
         "pais": "Perú",
         "codigoPais": "PE",
-        "current": 3.78,
+        "current": 3.83,
         "moneda": "PEN"
     },
     {
@@ -20,19 +20,19 @@
     {
         "pais": "México",
         "codigoPais": "MX", 
-        "current": 20.19,
+        "current": 21.02,
         "moneda": "MXN"
     },
     {
         "pais": "Argentina",
         "codigoPais": "AR",
-        "current": 221.17,
+        "current": 227.41,
         "moneda": "ARS"
     },
     {
         "pais": "Chile",
         "codigoPais": "CL",
-        "current": 867.73,
+        "current": 914.71,
         "moneda": "CLP"
     }
 ]

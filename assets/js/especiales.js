@@ -1,5 +1,5 @@
 // Define la fecha límite
-const finPromo = "Jun 23 2022 23:59:59"
+const finPromo = "May 31 2022 23:59:59"
 
 const countDownDate = new Date(finPromo).getTime();
 
@@ -22,7 +22,11 @@ const x = setInterval(function() {
     clearInterval(x);
     document.getElementById("countdown").innerHTML = "OFERTA NO DISPONIBLE";
   }
-}, 1000);
+
+  if (distance < 0) {
+    document.getElementById("promocionSuperpack").classList.add("d-none");
+  }
+}, 500);
 
 
 

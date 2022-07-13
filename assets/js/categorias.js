@@ -26,7 +26,7 @@ fetch('../assets/data/superPack.json')
     document.getElementById('categoryName').innerHTML = nombreCategoria;
     
 
-    const numCursos = data.length;
+    const numCursos = newArray.length;
     document.getElementById('numCursos').innerHTML = numCursos;
     
     
@@ -36,7 +36,7 @@ fetch('../assets/data/superPack.json')
         }
       }
 
-    const totalDuracion = new horas(...data);
+    const totalDuracion = new horas(...newArray);
     const totalHoras= totalDuracion.sum('duracion');
 
      document.getElementById('total_horas').innerHTML = totalHoras;
@@ -66,10 +66,10 @@ fetch('../assets/data/superPack.json')
                 
                 <img class=" shadow rounded-2" src="/assets/img/icons/${curso.main}.png" alt="${curso.main}" title="${curso.main}">
                 <a class="text-xxs" href="https://wa.me/+573242793938?text=Hola,%20Master.%20Quiero%20comprar%20el%20curso:%20+*${curso.curso}*+de+${curso.Profesor}"><h6 class="mb-0  ">${curso.curso}</h6></a>
-                <p class="text-xs     ">Nivel: <span class="text-success">${curso.nivel} </span>- <span class="font-weight-bolder ">${curso.duracion} Hs</span></p>
+                <p class="text-xs     "><span class="text-success bg-bluedark px-2 rounded">${curso.nivel}</span>- <span class="font-weight-bolder ">${curso.duracion} Hs</span></p>
                 <p class="text-xs ">${curso.Profesor} <span class="font-weight-bolder text-success">${curso.Plataforma}</span></p>
                 </div>
-                <a href="https://wa.me/+573242793938?text=Hola,%20Master.%20Quiero%20comprar%20el%20curso:%20+*${curso.curso}*+de+${curso.Profesor}"><button class="w-100 bg-success mb-3 border-0 rounded text-bolder text-white move-on-hover">Comprar - USD 9.99</button></a>
+                <a href="https://wa.me/+573242793938?text=Hola,%20Master.%20Quiero%20comprar%20el%20curso:%20+*${curso.curso}*+de+${curso.Profesor}"><button class="w-100 bg-success mb-3 border-0 rounded text-bolder text-white move-on-hover shadow-sm">Comprar - USD 9.99</button></a>
                 </div>
             </div>
         </div>

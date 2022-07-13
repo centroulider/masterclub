@@ -15,11 +15,11 @@ fetch('./assets/data/categorias.json')
                   </div>
                 </div>
                 <div class="mx-3 text-center">
-                  <a href="${curso.url}"><h5 class="ms-2 mb-0  text-dark text-bolder"> ${curso.categoria} </h5></a>
+                  <a href="/categorias.html?categoria=${curso.Codigo}"><h5 class="ms-2 mb-0  text-dark text-bolder"> ${curso.categoria} </h5></a>
                   <p class="text-sm ms-2">${curso.tags}</p>
                 </div>
                 <div class="mx-3">
-                  <a href="${curso.url}"><button class="w-100 bg-success mb-3 border-0 rounded text-bolder text-white move-on-hover">Ver los ${curso.Cantidad} cursos</button></a>
+                  <a href="/categorias.html?categoria=${curso.Codigo}"><button class="w-100 bg-success mb-3 border-0 rounded text-bolder text-white move-on-hover">Ver los ${curso.Cantidad} cursos</button></a>
                 </div>
              </div>
           </div>

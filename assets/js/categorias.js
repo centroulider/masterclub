@@ -58,18 +58,21 @@ fetch('../assets/data/superPack.json')
             <div class="rounded text-center shadow-sm mb-2">
                 <div class="bg-gradient-primary  pb-1  mb-2">
                 <div class="w-100 ">
-                    <a href="https://wa.me/573132047407+*${curso.curso}*+de+${curso.Profesor}"><img src="../assets/img/categorias/${curso.codigo}/${curso.idCurso}.avif" class="shadow-sm" width="100%" alt="${curso.curso}" title="${curso.curso}"></a>
+                    <a href="/curso.html?idCurso=${curso.idCurso}"><img src="../assets/img/categorias/${curso.codigo}/${curso.idCurso}.avif" class="shadow-sm" width="100%" alt="${curso.curso}" title="${curso.curso}"></a>
                 </div>
                 </div>
                 <div class="px-3">
                 <div class="div ">
                 
                 <img class=" shadow rounded-2" src="/assets/img/icons/${curso.main}.png" alt="${curso.main}" title="${curso.main}">
-                <a class="text-xxs" href="https://wa.me/+573242793938?text=Hola,%20Master.%20Quiero%20comprar%20el%20curso:%20+*${curso.curso}*+de+${curso.Profesor}"><h6 class="mb-0  ">${curso.curso}</h6></a>
-                <p class="text-xs     "><span class="text-success bg-bluedark px-2 rounded">${curso.nivel}</span>- <span class="font-weight-bolder ">${curso.duracion} Hs</span></p>
+                <a class="text-xxs" href="/curso.html?idCurso=${curso.idCurso}"><h6 class="mb-0  ">${curso.curso}</h6></a>
+                <p class="text-xs     "><span class="text-dark px-2 rounded">${curso.nivel}</span>- <span class="font-weight-bolder ">${curso.duracion} Hs</span></p>
                 <p class="text-xs ">${curso.Profesor} <span class="font-weight-bolder text-success">${curso.Plataforma}</span></p>
                 </div>
-                <a href="https://wa.me/+573242793938?text=Hola,%20Master.%20Quiero%20comprar%20el%20curso:%20+*${curso.curso}*+de+${curso.Profesor}"><button class="w-100 bg-success mb-3 border-0 rounded text-bolder text-white move-on-hover shadow-sm">Comprar - USD 9.99</button></a>
+                <div class="d-flex gap-1">
+                <a class="col-6" href="/curso.html?idCurso=${curso.idCurso}"><button class="w-100 border mb-3 border-0 bg-warning text-black-50 rounded  move-on-hover shadow-sm "><small>Ver más</small></button></a>
+                <a class="col-6" href="checkout.html?idCurso=${curso.idCurso}&Curso=${curso.curso}&precio=${curso.precio}"><button class="w-100 bg-success mb-3 border-0 rounded text-white move-on-hover shadow-sm"><small>Comprar</small></button></a>
+                </div>
                 </div>
             </div>
         </div>

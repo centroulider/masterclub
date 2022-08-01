@@ -4,8 +4,8 @@ const pageName = 'Cursos';
 const companyName = 'Master Club 3.0'
 
 var urlPage = window.location.search;
-const urlParams = new URLSearchParams(urlPage);
-const cat = urlParams.get('idCurso');
+const urlParam = new URLSearchParams(urlPage);
+const cat = urlParam.get('idCurso');
 
 
 fetch('../assets/data/superPack.json')

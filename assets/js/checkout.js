@@ -1,61 +1,142 @@
-const precioSuperPack = 14.99
 
 var urlPage = window.location.search;
 const urlParams = new URLSearchParams(urlPage);
-const paramCountry = urlParams.get('pais');
+const paramCurso = urlParams.get('idCurso');
 
-fetch('../assets/data/divisas.json')
+fetch('../assets/data/superPack.json')
 .then(response => response.json() )
 .then(data => {
     const newArray = data.filter(filtra =>{
-        return filtra.codigoPais == paramCountry;
+        return filtra.idCurso == paramCurso;
 })
     
 
-    const {pais, codigoPais, current, moneda} = newArray[0];
+    const {idCurso, codigo, curso, lenguaje, main, nivel, Plataforma, Profesor, duracion, categoria, precio} = newArray[0];
 
-        const nombrePais = pais;
-        const codeCountry = codigoPais;
-        const oneDolar = current;
-        const tipoMoneda = moneda;
+        const codigoCurso = codigo;
+        const nombreCurso = curso;
+        const nombreLenguaje = lenguaje;
+        const tema = main;
+        const nivelCurso = nivel;
+        const plataforma = Plataforma;
+        const profesor = Profesor;
+        const duracionCurso = duracion;
+        const nombreCategoria = categoria;
+        const precioCurso = precio;
 
-    const valorHoy1 = precioSuperPack * oneDolar
-    const valorHoy = valorHoy1.toFixed(2)
+        const subtotalPago = precioCurso;
+        const totalPago = subtotalPago;
 
-    document.getElementById('valor_hoy').innerHTML = valorHoy;
-    document.getElementById('moneda').innerHTML = tipoMoneda;
-    document.getElementById('nombre_pais').innerHTML = nombrePais;
-
-    document.getElementById('valor_hoy2').innerHTML = valorHoy;
-    document.getElementById('moneda2').innerHTML = tipoMoneda;
-    document.getElementById('nombre_pais2').innerHTML = nombrePais;
     
-    const imageFlag = document.createElement('img');
-    imageFlag.src = '../assets/img/paises/'+ codeCountry + '.svg'
-    imageFlag.classList = "w-100"
-    document.getElementById('flag').appendChild(imageFlag);
-
-    const imageFlag2 = document.createElement('img');
-    imageFlag2.src = '../assets/img/paises/'+ codeCountry + '.svg'
-    imageFlag2.classList = "w-10"
-    document.getElementById('flag2').appendChild(imageFlag2);
-
+    
+    document.getElementById('nombreCurso').innerHTML = nombreCurso;
+    document.getElementById('pago').innerHTML = precioCurso ;
+    document.getElementById('subtotalPago').innerHTML = subtotalPago;
+    document.getElementById('totalPago').innerHTML = totalPago;
+    document.getElementById('duracion').innerHTML = duracionCurso;
+    document.getElementById('profesor').innerHTML = profesor;
+    document.getElementById('nivel').innerHTML = nivelCurso;
 
 
-    const directoPago = new DirectoPago('qiUKDIrsgaLlhhJbYFlHXqqepziuSxpL');
 
-    const params = {
-        currency: 'USD',
-        country: paramCountry,
-        amount: precioSuperPack,
-        text: moneda + " " + valorHoy
-    };
+    // const directoPago = new DirectoPago('qiUKDIrsgaLlhhJbYFlHXqqepziuSxpL');
 
-    directoPago.createCheckout('id-button', params);
+    // const params = {
+    //     currency: 'USD',
+    //     country: paramCountry,
+    //     amount: precioSuperPack,
+    //     text: moneda + " " + valorHoy
+    // };
+
+    // directoPago.createCheckout('id-button', params); 
+
+    
 
 
 });
 
 
 
+    
+// Botónes de pago de Paypal
+var urlPrice = window.location.search;
+const urlParams2 = new URLSearchParams(urlPrice);
+const paramPrecio = urlParams2.get('precio');
+const product = urlParams2.get('Curso');
+const nombreCliente = "Fredy Moreno";
+const emailCliente = "giovanny58@gmail.es";
 
+function initPayPalButton() {
+    paypal.Buttons({
+        style: {
+        shape: 'pill',
+        color: 'gold',
+        layout: 'vertical',
+        label: 'paypal',
+        
+        },
+
+        // createOrder: function(data, actions) {
+        // return actions.order.create({
+        //     purchase_units: [{
+        //         "amount":{
+        //             "currency_code":"USD",
+        //             "value":paramPaypal
+        //             }
+        //          },
+        //     ]
+        // });
+        // },
+
+        createOrder: (data, actions) => {
+            return actions.order.create({
+               "purchase_units": [{
+                  "amount": {
+                    "currency_code": "USD",
+                    "value": paramPrecio,
+                    "breakdown": {
+                      "item_total": {  /* Required when including the items array */
+                        "currency_code": "USD",
+                        "value": paramPrecio
+                      }
+                    }
+                  },
+                  "items": [
+                    {
+                      "name": product, /* Shows within upper-right dropdown during payment approval */
+                      "description": emailCliente, /* Item details will also be in the completed paypal.com transaction view */
+                      "unit_amount": {
+                        "currency_code": "USD",
+                        "value": paramPrecio
+                      },
+                      "quantity": "1"
+                    },
+                  ]
+                }]
+            });
+          },
+
+        onApprove: function(data, actions) {
+        return actions.order.capture().then(function(orderData) {
+            
+            // Full available details
+            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+
+            // Show a success message within this page, e.g.
+            // const element = document.getElementById('paypal-button-container');
+            // element.innerHTML = '';
+            actions.redirect('payment-done.html?nombre='+nombreCliente+'&email='+emailCliente+'&idcurso='+paramCurso+'&curso='+product);
+
+            // Or go to another URL:  actions.redirect('thank_you.html');
+            
+        });
+        },
+
+        onError: function(err) {
+        console.log(err);
+        }
+    }).render('#paypal-button-container');
+    
+    }
+    
+    initPayPalButton();

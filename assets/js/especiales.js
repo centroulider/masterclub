@@ -1,5 +1,8 @@
-// Define la fecha límite
-const finPromo = "jul 5 2022 23:59:59"
+let date = new Date();
+
+let hoy = String(date.getMonth() + 1)+ ' ' + String(date.getDate()) + ' ' + date.getFullYear();
+
+const finPromo = hoy + " 23:59:59"
 
 const countDownDate = new Date(finPromo).getTime();
 
@@ -25,6 +28,7 @@ const x = setInterval(function() {
 
   if (distance < 0) {
     document.getElementById("promocionSuperpack").classList.add("d-none");
+    document.getElementById("promocionSuperpack2").classList.add("d-none");
     document.getElementById("bonoGratisIngles").classList.add("d-none");
   }
 }, 500);

@@ -1,5 +1,5 @@
 // Define la fecha límite
-const finPromo = "May 31 2022 23:59:59"
+const finPromo = "jul 5 2022 23:59:59"
 
 const countDownDate = new Date(finPromo).getTime();
 
@@ -25,6 +25,7 @@ const x = setInterval(function() {
 
   if (distance < 0) {
     document.getElementById("promocionSuperpack").classList.add("d-none");
+    document.getElementById("bonoGratisIngles").classList.add("d-none");
   }
 }, 500);
 
@@ -34,55 +35,55 @@ window.onload=()=> {
   
    // Links footer
 
-  const linkmasterclub = document.getElementById("linkMasterClub");
-  linkmasterclub.href = "https://google.com";
+  // const linkmasterclub = document.getElementById("linkMasterClub");
+  // linkmasterclub.href = "https://google.com";
 
-  const linkpagos = document.getElementById("linkPagos");
-  linkpagos.href = "https://google.com";
+  // const linkpagos = document.getElementById("linkPagos");
+  // linkpagos.href = "https://google.com";
 
-  const linkgarantia = document.getElementById("linkGarantia");
-  linkgarantia.href = "https://google.com";
+  // const linkgarantia = document.getElementById("linkGarantia");
+  // linkgarantia.href = "https://google.com";
 
-  const linkprivacidad = document.getElementById("linkPrivacidad");
-  linkprivacidad.href = "https://google.com";
+  // const linkprivacidad = document.getElementById("linkPrivacidad");
+  // linkprivacidad.href = "https://google.com";
 
   // links ctas
 
   // const linkpdf = document.getElementById("linkPdf");
   // linkpdf.href = "https://masterclub30.digital/lista-todos"
 
-  const linkprueba = document.getElementById("linkPrueba");
-  linkprueba.href = "https://masterclub30.digital/prueba-gratis"
+  // const linkprueba = document.getElementById("linkPrueba");
+  // linkprueba.href = "https://masterclub30.digital/prueba-gratis"
 
-  const linkpreciocategoria = document.getElementById("linkPrecioCategoria");
-  linkpreciocategoria.href = "https://wa.me/+573242793938?text=Hola+master+club.+Quiero+comprar+el+acceso+a+la+categoría+de:"
+  // const linkpreciocategoria = document.getElementById("linkPrecioCategoria");
+  // linkpreciocategoria.href = "https://wa.me/+573242793938?text=Hola+master+club.+Quiero+comprar+el+acceso+a+la+categoría+de:"
 
-  const linkoferta = document.getElementById("linkOferta");
-  linkoferta.href = "https://masterclub30.digital/superpack";
+  // const linkoferta = document.getElementById("linkOferta");
+  // linkoferta.href = "https://masterclub30.digital/superpack";
 
 
   // Lnks Menu
 
-  const linkMarketing = document.getElementById("linkMd");
-  linkMarketing.href = "/categorias.html?categoria=md"
+  // const linkMarketing = document.getElementById("linkMd");
+  // linkMarketing.href = "/categorias.html?categoria=md"
 
-  const linkVideo = document.getElementById("linkEv");
-  linkVideo.href = "/categorias.html?categoria=ev"
+  // const linkVideo = document.getElementById("linkEv");
+  // linkVideo.href = "/categorias.html?categoria=ev"
 
-  const linkDiseno = document.getElementById("linkDg");
-  linkDiseno.href = "/categorias.html?categoria=dg"
+  // const linkDiseno = document.getElementById("linkDg");
+  // linkDiseno.href = "/categorias.html?categoria=dg"
 
-  const linkIngles = document.getElementById("linkIn");
-  linkIngles.href = "/categorias.html?categoria=in" 
+  // const linkIngles = document.getElementById("linkIn");
+  // linkIngles.href = "/categorias.html?categoria=in" 
 
-  const linkDw = document.getElementById("linkDw");
-  linkDw.href = "/categorias.html?categoria=dw"
+  // const linkDw = document.getElementById("linkDw");
+  // linkDw.href = "/categorias.html?categoria=dw"
 
-  const linkinicio = document.getElementById("linkInicio");
-  linkinicio.href = "https://masterclub30.digital"
+  // const linkinicio = document.getElementById("linkInicio");
+  // linkinicio.href = "https://masterclub30.digital"
 
-  const linkhome = document.getElementById("linkHome");
-  linkhome.href = "https://masterclub30.digital"
+  // const linkhome = document.getElementById("linkHome");
+  // linkhome.href = "https://masterclub30.digital"
 };
 
 

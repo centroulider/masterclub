@@ -5,14 +5,14 @@ const companyName = 'Master Club 3.0'
 
 var urlPage = window.location.search;
 const urlParam = new URLSearchParams(urlPage);
-const cat = urlParam.get('idCurso');
+const categ = urlParam.get('idCurso');
 
 
 fetch('../assets/data/superPack.json')
 .then(response => response.json() )
 .then(data => {
     const newArray = data.filter(filtra =>{
-        return filtra.idCurso == cat;
+        return filtra.idCurso == categ;
 })
     
 

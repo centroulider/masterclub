@@ -53,32 +53,34 @@
           <div class="col-12 d-lg-flex mt-5 mb-3">
             <div class="col-12 col-md-8">
               <div class="">
-                <p class="mb-0">Categoría: <span id="categoria" class="bg-bluedark d-inline px-2 py-1 rounded text-success "></span> <a href="#" class="bg-warning px-3 py-1 rounded"><span id="volverCategoria" class=" d-inline  text-bolder">Volver a todos los cursos</span></a></p>
-                <h1 id="nombreCurso" class=""><small></small></h1>
+                <div><p class="mb-0"><span id="categoria" class="bg-bluedark d-inline px-2 py-1 rounded text-success "></span> <span class="volverCategoria"></span></p></div>
+                <h1 id="nombreCurso" class="mt-3"><small></small></h1>
               </div>   
-              <div class="imagenCurso border bg-white"> 
-              </div>
-
               <div class="">
-                <div class="items  align-items-center bg-bluedark mt-2 rounded py-2">
+                <h5>Qué es el <span id="nombreCurso2"></span></h5>
+                <hr class="mt-0 mb-1">
+                <p id="descripcionCurso"></p>
+              </div> 
+              <div class="">
+                <div class="items  align-items-center mt-2 rounded py-2">
                   
-                    <div class="item-grid mx-auto">
-                      <p class="my-0 text-white"><small><b>Autor:</b> <span id="profesor"></span></p></small>
+                    <div class="item-grid">
+                      <p class="my-0"><small><b>Autor:</b> <span id="profesor"></span></p></small>
                     </div>
-                    <div class="item-grid mx-auto">
-                      <p class="my-0 text-white"><small><b>Lenguaje:</b> <span id="lenguaje"></span></p></small>
+                    <div class="item-grid">
+                      <p class="my-0"><small><b>Lenguaje:</b> <span id="lenguaje"></span></p></small>
                     </div>
-                    <div class="item-grid mx-auto">
-                      <p class="my-0 text-white"><small><b>Formato:</b> <span>Video</span></p></small>
+                    <div class="item-grid">
+                      <p class="my-0"><small><b>Formato:</b> <span>Video</span></p></small>
                     </div>
-                    <div class="item-grid mx-auto">
-                      <p class="my-0 text-white"><small><b>Nivel:</b> <span id="nivel"></span></p></small>
+                    <div class="item-grid">
+                      <p class="my-0"><small><b>Nivel:</b> <span id="nivel"></span></p></small>
                     </div>
-                    <div class="item-grid mx-auto">
-                      <p class="my-0 text-white"><small><b>Duración:</b> <span id="duracion"></span> Horas</p></small>
+                    <div class="item-grid">
+                      <p class="my-0"><small><b>Duración:</b> <span id="duracion"></span> Horas</p></small>
                     </div>
-                    <div class="item-grid mx-auto">
-                      <p class="my-0 text-white"><small><b>Plataforma:</b> <span id="plataforma"></span></p></small>
+                    <div class="item-grid">
+                      <p class="my-0"><small><b>Plataforma:</b> <span id="plataforma"></span></p></small>
                     </div>
                   </div>
                 <hr class="mt-0 mb-1">
@@ -90,31 +92,29 @@
                   grid-template-columns: 1fr 1fr 1fr;
                 }
               </style>
-              <div class="mt-3 border p-3 bg-white">
-                <h5>Qué es el <span id="nombreCurso2"></span></h5>
-                <hr class="mt-0 mb-1">
-                <p>
-                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-                  standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
-                  a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
-                  remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing
-                  Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
-                  of Lorem Ipsum
-                </p>
-              </div> 
+              <div>
+                <h6>📤 Alojado en Google Drive.<br>
+                    💯 Cursos 100% en vídeo.<br>
+                    💾 Puedes verlos en linea o descargarlos.<br>
+
+                    🗝️ Acceso inmediato y apara siempre!!!</h6>
+              </div>
             </div>
 
 
 
             <div class="col-12 col-md-4 px-lg-3">
               <div class="p-3 bg-white rounded  position-sticky">
-                <div class="mb-2">
-                  <p class="my-0 text-black-50"><small><strike>USD 14.99</strike></small></p>
+                <div class="mb-2 d-flex justify-content-center">
+                  <p class="my-0 text-warning me-2"><small><strike>USD <span id="pagoRegular"></span></strike></small></p>
                   <h4 class="my-0">USD <span id="pago"></span></h4>
                 </div>
                 <div>
-                  <div><img class="w-100 p-3" src="./assets/img/logos/paypaLogo.png" alt=""></div>
-                  <div class="checkoutLink"></div>
+                  <div class="imagenCurso border bg-white"> </div>
+                  <div class="d-flex mt-2">
+                    <div class="col-4 my-auto pe-1"><img class="w-100" src="./assets/img/logos/paypaLogo.png" alt=""></div>
+                    <div class="col-8 checkoutLink"></div>
+                  </div>
                 </div>
                 <div class="">
                   <p class="my-0"><small><b>Este curso incluye:</b></small></p>
@@ -149,7 +149,7 @@
             </div>
           </div>
            
-          <div id="preguntasFrecuentes" class="container d-block d-lg-flex bg-white p-5 rounded shadow mb-5">
+          <div id="preguntasFrecuentes" class="container d-block d-lg-flex bg-white py-3 p-lg-5 rounded shadow mb-5">
             <div class="col-12 col-lg-6">
               <h4>Preguntas frecuentes</h4>
             <P><b>¿Cómo obtengo la oferta?</b>

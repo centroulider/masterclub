@@ -3,6 +3,7 @@
     "idCurso": 1,
     "codigo": "dw",
     "curso": "Curso de optimizacion web",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "",
     "nivel": "Basico",
@@ -10,12 +11,14 @@
     "Profesor": "Jonathan Alvarez",
     "duracion": 7,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 2,
     "codigo": "dw",
     "curso": "Curso de Manipulación del DOM",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "",
     "nivel": "Intermedio",
@@ -23,12 +26,14 @@
     "Profesor": "Jonathan Alvarez",
     "duracion": 4,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 3,
     "codigo": "dw",
     "curso": "Introducción al despliegue de aplicaciones",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "",
     "nivel": "Avanzado",
@@ -36,12 +41,14 @@
     "Profesor": "Santiago Bernal",
     "duracion": 1,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 4,
     "codigo": "dw",
     "curso": "Curso de Server Side Render con Express",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "",
     "nivel": "Avanzado",
@@ -49,12 +56,14 @@
     "Profesor": "Carlos Sampol",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 5,
     "codigo": "dw",
     "curso": "Angular de Cero a Experto",
+    "Descripcion": "",
     "lenguaje": "Angular",
     "main": "angular",
     "nivel": "Cero a Cien",
@@ -62,12 +71,14 @@
     "Profesor": "Fernando Herrera",
     "duracion": 44,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 6,
     "codigo": "dw",
     "curso": "Angular Avanzado Lleva tus bases al siguiente nivel - MEAN",
+    "Descripcion": "",
     "lenguaje": "Angular",
     "main": "angular",
     "nivel": "Avanzado",
@@ -75,12 +86,14 @@
     "Profesor": "Fernando Herrera",
     "duracion": 32,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 7,
     "codigo": "dw",
     "curso": "Angular PRO desde cero El curso definitivo (Angular 8+)",
+    "Descripcion": "",
     "lenguaje": "Angular",
     "main": "angular",
     "nivel": "Cero a Cien",
@@ -88,12 +101,14 @@
     "Profesor": "Enrique Oriol",
     "duracion": 11.5,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 8,
     "codigo": "dw",
     "curso": "REDUX en Angular con NGRX Desde las bases hasta la práctica",
+    "Descripcion": "",
     "lenguaje": "Angular",
     "main": "angular",
     "nivel": "Avanzado",
@@ -101,12 +116,14 @@
     "Profesor": "Fernando Herrera",
     "duracion": 45,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 9,
     "codigo": "dw",
     "curso": "Universidad Angular - De cero a Cien en Angular",
+    "Descripcion": "",
     "lenguaje": "Angular, Javascript",
     "main": "angular",
     "nivel": "De Cero a Cien",
@@ -114,12 +131,14 @@
     "Profesor": "Ubaldo Acosta",
     "duracion": 52,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 10,
     "codigo": "dw",
     "curso": "Crea tu primer Robot con Arduino",
+    "Descripcion": "",
     "lenguaje": "Arduino",
     "main": "arduino",
     "nivel": "Basico",
@@ -127,12 +146,14 @@
     "Profesor": "Edgar Pons",
     "duracion": 7,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 11,
     "codigo": "dw",
     "curso": "Sistema de ventas en ASP.NET MVC en C and SQL full stack",
+    "Descripcion": "",
     "lenguaje": "ASP.NET, MVC, C#, SQL",
     "main": "c",
     "nivel": "Fullstack",
@@ -140,12 +161,14 @@
     "Profesor": "Alex Joel Pagoada",
     "duracion": 45,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 12,
     "codigo": "dw",
     "curso": "Curso de Bootstrap",
+    "Descripcion": "",
     "lenguaje": "Bootstrap",
     "main": "bootstrap",
     "nivel": "Basico",
@@ -153,12 +176,14 @@
     "Profesor": "Sacha Lifszyc",
     "duracion": 2,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 13,
     "codigo": "dw",
     "curso": "El Lenguaje C desde Cero",
+    "Descripcion": "",
     "lenguaje": "C",
     "main": "c",
     "nivel": "Básico",
@@ -166,12 +191,14 @@
     "Profesor": "Nate Gentile",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 14,
     "codigo": "dw",
     "curso": "Debugging con Chrome Devtools",
+    "Descripcion": "",
     "lenguaje": "Chrome",
     "main": "chrome",
     "nivel": "Basico",
@@ -179,12 +206,14 @@
     "Profesor": "Diego De Granda",
     "duracion": 2,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 15,
     "codigo": "dw",
     "curso": "Responsive Design",
+    "Descripcion": "",
     "lenguaje": "Css",
     "main": "css",
     "nivel": "Basico",
@@ -192,12 +221,14 @@
     "Profesor": "Diego De Granda",
     "duracion": 5,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 16,
     "codigo": "dw",
     "curso": "Css Grid Layout",
+    "Descripcion": "",
     "lenguaje": "Css",
     "main": "css",
     "nivel": "Basico",
@@ -205,12 +236,14 @@
     "Profesor": "Estefany Aguilar",
     "duracion": 4,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 17,
     "codigo": "dw",
     "curso": "Curso de Diseño Web con CSS Grid y Flexbox",
+    "Descripcion": "",
     "lenguaje": "Css",
     "main": "css",
     "nivel": "Basico",
@@ -218,12 +251,14 @@
     "Profesor": "Estefany Aguilar",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 18,
     "codigo": "dw",
     "curso": "Curso de Responsive Design Maquetación Mobile First",
+    "Descripcion": "",
     "lenguaje": "Css",
     "main": "css",
     "nivel": "Basico",
@@ -231,12 +266,14 @@
     "Profesor": "Diego Da Granda",
     "duracion": 5,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 19,
     "codigo": "dw",
     "curso": "Curso Práctico de Maquetación en CSS",
+    "Descripcion": "",
     "lenguaje": "Css",
     "main": "css",
     "nivel": "Basico",
@@ -244,12 +281,14 @@
     "Profesor": "Diego Da Granda",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 20,
     "codigo": "dw",
     "curso": "Preprocesadores CSS",
+    "Descripcion": "",
     "lenguaje": "Css",
     "main": "css",
     "nivel": "Intermedio",
@@ -257,12 +296,14 @@
     "Profesor": "Wilson Sánchez",
     "duracion": 6,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 21,
     "codigo": "dw",
     "curso": "Creación de una Style Guide para Apps",
+    "Descripcion": "",
     "lenguaje": "Diseño",
     "main": "sistemas",
     "nivel": "Básico",
@@ -270,12 +311,14 @@
     "Profesor": "Christian Viscarra",
     "duracion": 2,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 22,
     "codigo": "dw",
     "curso": "Figma desde cero",
+    "Descripcion": "",
     "lenguaje": "Figma",
     "main": "figma",
     "nivel": "Básico",
@@ -283,12 +326,14 @@
     "Profesor": "Alvaro Felipe",
     "duracion": 12,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 23,
     "codigo": "dw",
     "curso": "Flutter Web Aplicaciones y Páginas Web Profesionales",
+    "Descripcion": "",
     "lenguaje": "Flutter",
     "main": "flutter",
     "nivel": "Intermedio",
@@ -296,12 +341,14 @@
     "Profesor": "Fernando Herrera",
     "duracion": 21,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 24,
     "codigo": "dw",
     "curso": "Curso Profesional de Git y Github",
+    "Descripcion": "",
     "lenguaje": "Git",
     "main": "git",
     "nivel": "Basico",
@@ -309,12 +356,14 @@
     "Profesor": "Freddy Vega",
     "duracion": 6,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 25,
     "codigo": "dw",
     "curso": "Curso de Frontend Developer",
+    "Descripcion": "",
     "lenguaje": "Hal, Css, Javascript",
     "main": "javascript",
     "nivel": "Basico",
@@ -322,12 +371,14 @@
     "Profesor": "Estefany Aguilar",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 26,
     "codigo": "dw",
     "curso": "Definitivo HTML",
+    "Descripcion": "",
     "lenguaje": "Html",
     "main": "html",
     "nivel": "Basico",
@@ -335,12 +386,14 @@
     "Profesor": "Diego De Granda",
     "duracion": 7,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 27,
     "codigo": "dw",
     "curso": "Práctico Html y Css",
+    "Descripcion": "",
     "lenguaje": "Html, css",
     "main": "html",
     "nivel": "Basico",
@@ -348,12 +401,14 @@
     "Profesor": "Diego De Granda",
     "duracion": 2,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 28,
     "codigo": "dw",
     "curso": "Accesibilidad Web",
+    "Descripcion": "",
     "lenguaje": "Html, Css",
     "main": "html",
     "nivel": "Intermedio",
@@ -361,12 +416,14 @@
     "Profesor": "Juliana Gómez",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 29,
     "codigo": "dw",
     "curso": "Curso de Html y Css Básico",
+    "Descripcion": "",
     "lenguaje": "Html, Css",
     "main": "html",
     "nivel": "Básico",
@@ -374,12 +431,14 @@
     "Profesor": "Nate Gentile",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 30,
     "codigo": "dw",
     "curso": "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL",
+    "Descripcion": "",
     "lenguaje": "Html, Css, Javascript, Ajax, Php, Mysql",
     "main": "php",
     "nivel": "Fullstack",
@@ -387,12 +446,14 @@
     "Profesor": "Juan Pablo de la Torre",
     "duracion": 79,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 31,
     "codigo": "dw",
     "curso": "Desarrollo Web en PHP, MVC, POO y MySQL - Tienda Virtual",
+    "Descripcion": "",
     "lenguaje": "Html, Css, Php, Mysql",
     "main": "php",
     "nivel": "Fullstack",
@@ -400,12 +461,14 @@
     "Profesor": "Abel OjS Shicay",
     "duracion": 73,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 32,
     "codigo": "dw",
     "curso": "Java Básico",
+    "Descripcion": "",
     "lenguaje": "Java",
     "main": "java",
     "nivel": "Básico",
@@ -413,12 +476,14 @@
     "Profesor": "",
     "duracion": 12,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 33,
     "codigo": "dw",
     "curso": "Universidad Java",
+    "Descripcion": "",
     "lenguaje": "Java",
     "main": "java",
     "nivel": "De Cero a Cien",
@@ -426,12 +491,14 @@
     "Profesor": "Ubaldo Acosta",
     "duracion": 106,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 34,
     "codigo": "dw",
     "curso": "Asincronismo con Javascript",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Basico",
@@ -439,12 +506,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 1,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 35,
     "codigo": "dw",
     "curso": "Curso de ECMAScript 6+",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -452,12 +521,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 2,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 36,
     "codigo": "dw",
     "curso": "Curso Profesional de Javascript",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -465,12 +536,14 @@
     "Profesor": "Richard Kaufman",
     "duracion": 6,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 37,
     "codigo": "dw",
     "curso": "Closures y Scope en Javascript",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -478,12 +551,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 1,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 38,
     "codigo": "dw",
     "curso": "Básico de Javascript",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -491,12 +566,14 @@
     "Profesor": "Diego De Granda",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 39,
     "codigo": "dw",
     "curso": "Router para Single Page App con Javascript",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -504,12 +581,14 @@
     "Profesor": "Ricardo Celis",
     "duracion": 1,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 40,
     "codigo": "dw",
     "curso": "Javascript Testing con Jet",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -517,12 +596,14 @@
     "Profesor": "Nicolas Medina",
     "duracion": 2,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 41,
     "codigo": "dw",
     "curso": "Curso de JavaScript Engine (V8) y el Navegador",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -530,12 +611,14 @@
     "Profesor": "Diego De Granda",
     "duracion": 1,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 42,
     "codigo": "dw",
     "curso": "Curso de Estructuras de Datos con JavaScript",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -543,12 +626,14 @@
     "Profesor": "Diego Da Granda",
     "duracion": 4,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 43,
     "codigo": "dw",
     "curso": "Curso Básico de Web Components con JavaScript",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -556,12 +641,14 @@
     "Profesor": "Diego Da Granda",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 44,
     "codigo": "dw",
     "curso": "Fundamentos de TypeScript",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -569,12 +656,14 @@
     "Profesor": "Nicolás Molina",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 45,
     "codigo": "dw",
     "curso": "Curso de Integración Backend y Frontend",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Avanzado",
@@ -582,12 +671,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 2,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 46,
     "codigo": "dw",
     "curso": "Javascript para niños",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Basico",
@@ -595,12 +686,14 @@
     "Profesor": "Marina Charris",
     "duracion": 5,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 47,
     "codigo": "dw",
     "curso": "Fundamentos de Javascript",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Basico",
@@ -608,12 +701,14 @@
     "Profesor": "Sergio Agamez",
     "duracion": 11,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 48,
     "codigo": "dw",
     "curso": "Fundamentos de Programación con Javascript",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Básico",
@@ -621,12 +716,14 @@
     "Profesor": "Martin Akka",
     "duracion": 7,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 49,
     "codigo": "dw",
     "curso": "JavaScript Moderno Guía para dominar el lenguaje",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -634,12 +731,14 @@
     "Profesor": "Fernando Herrera",
     "duracion": 18,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 50,
     "codigo": "dw",
     "curso": "Curso Profesional de Javascript 2021",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -647,12 +746,14 @@
     "Profesor": "Marcos Rivas Rojas",
     "duracion": 28,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 51,
     "codigo": "dw",
     "curso": "Desde 0 hasta Maestro - Creando el Backend con la PokeAPI",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Backend",
@@ -660,12 +761,14 @@
     "Profesor": "Martin Akka",
     "duracion": "",
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 52,
     "codigo": "dw",
     "curso": "JavaScript Moderno Guía Definitiva Construye +15 Proyectos",
+    "Descripcion": "",
     "lenguaje": "Javascript",
     "main": "javascript",
     "nivel": "Fullstack",
@@ -673,12 +776,14 @@
     "Profesor": "Juan Pablo de la Torre",
     "duracion": 47,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 53,
     "codigo": "dw",
     "curso": "Curso Profesional de Angular",
+    "Descripcion": "",
     "lenguaje": "Javascript, Angular",
     "main": "angular",
     "nivel": "Avanzado",
@@ -686,12 +791,14 @@
     "Profesor": "Nicolás Molina",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 54,
     "codigo": "dw",
     "curso": "Curso de React.Js",
+    "Descripcion": "",
     "lenguaje": "Javascript, React",
     "main": "reactjs",
     "nivel": "Avanzado",
@@ -699,12 +806,14 @@
     "Profesor": "Juan David Castro",
     "duracion": 5,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 55,
     "codigo": "dw",
     "curso": "Curso Práctico de ReactJs",
+    "Descripcion": "",
     "lenguaje": "Javascript, React",
     "main": "reactjs",
     "nivel": "Avanzado",
@@ -712,12 +821,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 5,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 56,
     "codigo": "dw",
     "curso": "Curso de React Router y Redux",
+    "Descripcion": "",
     "lenguaje": "Javascript, React",
     "main": "reactjs",
     "nivel": "Avanzado",
@@ -725,12 +836,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 57,
     "codigo": "dw",
     "curso": "Curso Profesional de React Hooks",
+    "Descripcion": "",
     "lenguaje": "Javascript, React",
     "main": "reactjs",
     "nivel": "Avanzado",
@@ -738,12 +851,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 6,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 58,
     "codigo": "dw",
     "curso": "Curso de React Avanzado",
+    "Descripcion": "",
     "lenguaje": "Javascript, React",
     "main": "reactjs",
     "nivel": "Avanzado",
@@ -751,12 +866,14 @@
     "Profesor": "Miguel Angel Durán",
     "duracion": 6,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 59,
     "codigo": "dw",
     "curso": "Inicia con TALL Usa Tailwind, Alpine, Laravel y Livewire",
+    "Descripcion": "",
     "lenguaje": "Javascript, Tailwind, Alpine, Laravel, Livewire",
     "main": "javascript",
     "nivel": "Fullstack",
@@ -764,12 +881,14 @@
     "Profesor": "JuanD Megon",
     "duracion": 45,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 60,
     "codigo": "dw",
     "curso": "Single Page Aplication con Javascript Vanilla",
+    "Descripcion": "",
     "lenguaje": "Javascript, Vanilla",
     "main": "javascript",
     "nivel": "Intermedio",
@@ -777,12 +896,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 2,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 61,
     "codigo": "dw",
     "curso": "Curso Básico de Vue Js",
+    "Descripcion": "",
     "lenguaje": "Javascript, Vue",
     "main": "vue",
     "nivel": "Avanzado",
@@ -790,12 +911,14 @@
     "Profesor": "Diana Martínez",
     "duracion": 5,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 62,
     "codigo": "dw",
     "curso": "Curso Avanzado de Vue Js",
+    "Descripcion": "",
     "lenguaje": "Javascript, Vue",
     "main": "vue",
     "nivel": "Avanzado",
@@ -803,12 +926,14 @@
     "Profesor": "Jorge Bauman",
     "duracion": 4,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 63,
     "codigo": "dw",
     "curso": "Curso Profesional de Vue Js",
+    "Descripcion": "",
     "lenguaje": "Javascript, Vue",
     "main": "vue",
     "nivel": "Avanzado",
@@ -816,12 +941,14 @@
     "Profesor": "Ignacio Anaya",
     "duracion": 9,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 64,
     "codigo": "dw",
     "curso": "Vue js [Actualizado] ¡De 0 a Experto! + Firebase + MEVN",
+    "Descripcion": "",
     "lenguaje": "Javascript, Vue",
     "main": "vue",
     "nivel": "Avanzado",
@@ -829,12 +956,14 @@
     "Profesor": "Ignacio Gutierrez",
     "duracion": 43,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 65,
     "codigo": "dw",
     "curso": "Curso de Angular",
+    "Descripcion": "",
     "lenguaje": "Javascript. Angular",
     "main": "angular",
     "nivel": "Avanzado",
@@ -842,12 +971,14 @@
     "Profesor": "Nicolás Molina",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 66,
     "codigo": "dw",
     "curso": "Como crear tu Propio Entorno de Escritorio en Arch Linux",
+    "Descripcion": "",
     "lenguaje": "Linux",
     "main": "linux",
     "nivel": "Intermedio",
@@ -855,12 +986,14 @@
     "Profesor": "Antonio Sarosi",
     "duracion": 9,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 67,
     "codigo": "dw",
     "curso": "PostgreSQL",
+    "Descripcion": "",
     "lenguaje": "MySql",
     "main": "mysql",
     "nivel": "Básico",
@@ -868,12 +1001,14 @@
     "Profesor": "Mario Chávez",
     "duracion": 2,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 68,
     "codigo": "dw",
     "curso": "Aprende SQL desde cero",
+    "Descripcion": "",
     "lenguaje": "MySql",
     "main": "mysql",
     "nivel": "Básico",
@@ -881,12 +1016,14 @@
     "Profesor": "Numpi",
     "duracion": 5,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 69,
     "codigo": "dw",
     "curso": "SQL - Curso completo de Bases de Datos - de 0 a Avanzado",
+    "Descripcion": "",
     "lenguaje": "MySql",
     "main": "mysql",
     "nivel": "De Cero a Cien",
@@ -894,12 +1031,14 @@
     "Profesor": "Pablo Tilotta",
     "duracion": 23,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 70,
     "codigo": "dw",
     "curso": "Autenticación con Passport y JWT",
+    "Descripcion": "",
     "lenguaje": "Nest Js",
     "main": "nodejs",
     "nivel": "Avanzado",
@@ -907,12 +1046,14 @@
     "Profesor": "Nicolas Molina",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 71,
     "codigo": "dw",
     "curso": "Curso de Next Js",
+    "Descripcion": "",
     "lenguaje": "Next Js",
     "main": "nextjs",
     "nivel": "Avanzado",
@@ -920,12 +1061,14 @@
     "Profesor": "Jonathan Alvarez",
     "duracion": 4,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 72,
     "codigo": "dw",
     "curso": "Fundamentos de NodeJs",
+    "Descripcion": "",
     "lenguaje": "NodeJs",
     "main": "nodejs",
     "nivel": "Avanzado",
@@ -933,12 +1076,14 @@
     "Profesor": "Carlos Hernández",
     "duracion": 5,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 73,
     "codigo": "dw",
     "curso": "Curso de NodeJs",
+    "Descripcion": "",
     "lenguaje": "NodeJs",
     "main": "nodejs",
     "nivel": "Avanzado",
@@ -946,12 +1091,14 @@
     "Profesor": "Carlos Hernández",
     "duracion": 5,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 74,
     "codigo": "dw",
     "curso": "Curso Práctico de NodeJs",
+    "Descripcion": "",
     "lenguaje": "NodeJs",
     "main": "nodejs",
     "nivel": "Avanzado",
@@ -959,12 +1106,14 @@
     "Profesor": "Carlos Hernández",
     "duracion": 4,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 75,
     "codigo": "dw",
     "curso": "Curso de Backend con NodeJs",
+    "Descripcion": "",
     "lenguaje": "NodeJs",
     "main": "nodejs",
     "nivel": "Avanzado",
@@ -972,12 +1121,14 @@
     "Profesor": "Nicolas Molina",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 76,
     "codigo": "dw",
     "curso": "Curso Avanzado de NodeJs",
+    "Descripcion": "",
     "lenguaje": "NodeJs",
     "main": "nodejs",
     "nivel": "Avanzado",
@@ -985,12 +1136,14 @@
     "Profesor": "Nicolas Molina",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 77,
     "codigo": "dw",
     "curso": "Node de cero a Experto",
+    "Descripcion": "",
     "lenguaje": "NodeJs",
     "main": "nodejs",
     "nivel": "Cero a Cien",
@@ -998,12 +1151,14 @@
     "Profesor": "Fernando Herrera",
     "duracion": 28,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 78,
     "codigo": "dw",
     "curso": "Gestión de dependencias y paquetes con NPM",
+    "Descripcion": "",
     "lenguaje": "Npm",
     "main": "npm",
     "nivel": "Intermedio",
@@ -1011,12 +1166,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 1,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 79,
     "codigo": "dw",
     "curso": "Desarrollo Profesional de Temas y Plugins de WordPress Udemy",
+    "Descripcion": "",
     "lenguaje": "Php",
     "main": "php",
     "nivel": "Fullstack",
@@ -1024,12 +1181,14 @@
     "Profesor": "Juan Pablo de la Torre",
     "duracion": 33,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 80,
     "codigo": "dw",
     "curso": "Curso Práctico de Arquitectura Backend",
+    "Descripcion": "",
     "lenguaje": "Php, Java, Javascript, MySql",
     "main": "php",
     "nivel": "Avanzado",
@@ -1037,12 +1196,14 @@
     "Profesor": "Jorge Villalobos",
     "duracion": 4,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 81,
     "codigo": "dw",
     "curso": "Sistema de venta en PHP 8 POO MVC con MySQL PDO full stack",
+    "Descripcion": "",
     "lenguaje": "Php, MVC, POO, PDO, Mysql",
     "main": "php",
     "nivel": "Fullstack",
@@ -1050,12 +1211,14 @@
     "Profesor": "Alex Joel Pagoada",
     "duracion": 41,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 82,
     "codigo": "dw",
     "curso": "Todo PHP y MySql - De básico a Experto",
+    "Descripcion": "",
     "lenguaje": "Php, Mysql",
     "main": "php",
     "nivel": "De Cero a Cien",
@@ -1063,12 +1226,14 @@
     "Profesor": "Francisco Javier Arce",
     "duracion": 63,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 83,
     "codigo": "dw",
     "curso": "Master en PHP Moderno 7 y 8 POO, PDO, Mysql, SQL, PostgreSQL",
+    "Descripcion": "",
     "lenguaje": "Php, POO, PDO, Mysql, SQL, PostgreSQL",
     "main": "php",
     "nivel": "Fullstack",
@@ -1076,12 +1241,14 @@
     "Profesor": "Render2web",
     "duracion": 29,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 84,
     "codigo": "dw",
     "curso": "Curso de Postman",
+    "Descripcion": "",
     "lenguaje": "Postman",
     "main": "postman",
     "nivel": "Intermedio",
@@ -1089,12 +1256,14 @@
     "Profesor": "Eduardo Alvarez",
     "duracion": 2,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 85,
     "codigo": "dw",
     "curso": "Aprende a programar con Python",
+    "Descripcion": "",
     "lenguaje": "Python",
     "main": "python",
     "nivel": "Básico",
@@ -1102,12 +1271,14 @@
     "Profesor": "Nate Gentile",
     "duracion": 13,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 86,
     "codigo": "dw",
     "curso": "Master en Python 3.x. Aprende de 0 a EXPERTO con Práctica",
+    "Descripcion": "",
     "lenguaje": "Python",
     "main": "python",
     "nivel": "Cero a Cien",
@@ -1115,12 +1286,14 @@
     "Profesor": "Alvaro Chirou",
     "duracion": 26,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 87,
     "codigo": "dw",
     "curso": "Curso completo de Python 3 de la A a la Z",
+    "Descripcion": "",
     "lenguaje": "Python",
     "main": "python",
     "nivel": "Cero a Cien",
@@ -1128,12 +1301,14 @@
     "Profesor": "Juan Gabriel Gomila",
     "duracion": 55,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 88,
     "codigo": "dw",
     "curso": "Python sin fronteras HTML, CSS, Flask y MySQL",
+    "Descripcion": "",
     "lenguaje": "Python, Html, Css, Flask, Mysql",
     "main": "python",
     "nivel": "Avanzado",
@@ -1141,12 +1316,14 @@
     "Profesor": "Nicolas Schurmann",
     "duracion": 25,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 89,
     "codigo": "dw",
     "curso": "Universidad Python - POO, Django, Flask y PostgreSql",
+    "Descripcion": "",
     "lenguaje": "Python, POO, Django, Flask y PostgreSql",
     "main": "python",
     "nivel": "De cero a Cien",
@@ -1154,12 +1331,14 @@
     "Profesor": "Ubaldo Acosta",
     "duracion": 71,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 90,
     "codigo": "dw",
     "curso": "React - La Guía Completa Hooks Context Redux MERN +15 Apps",
+    "Descripcion": "",
     "lenguaje": "ReactJs",
     "main": "reactjs",
     "nivel": "Fullstack",
@@ -1167,12 +1346,14 @@
     "Profesor": "Juan Pablo de la Torre",
     "duracion": 67,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 91,
     "codigo": "dw",
     "curso": "Curso de Saas",
+    "Descripcion": "",
     "lenguaje": "Saas",
     "main": "saas",
     "nivel": "Intermedio",
@@ -1180,12 +1361,14 @@
     "Profesor": "",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 92,
     "codigo": "dw",
     "curso": "Curso de Sapper",
+    "Descripcion": "",
     "lenguaje": "Sapper",
     "main": "svelte",
     "nivel": "Avanzado",
@@ -1193,12 +1376,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 2,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 93,
     "codigo": "dw",
     "curso": "Sistemas de Diseño",
+    "Descripcion": "",
     "lenguaje": "Sistemas de diseño",
     "main": "sistemas",
     "nivel": "Basico",
@@ -1206,12 +1391,14 @@
     "Profesor": "Rulótico González",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 94,
     "codigo": "dw",
     "curso": "Curso de Sistemas Operativos",
+    "Descripcion": "",
     "lenguaje": "Sistemas Operativos",
     "main": "sistemas",
     "nivel": "Básico",
@@ -1219,12 +1406,14 @@
     "Profesor": "Antonio Sarosi",
     "duracion": 4,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 95,
     "codigo": "dw",
     "curso": "Curso de Svelte",
+    "Descripcion": "",
     "lenguaje": "Svelte",
     "main": "svelte",
     "nivel": "Avanzado",
@@ -1232,12 +1421,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 96,
     "codigo": "dw",
     "curso": "Curso de Svelte y Sapper",
+    "Descripcion": "",
     "lenguaje": "Svelte, Sapper",
     "main": "svelte",
     "nivel": "Avanzado",
@@ -1245,12 +1436,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 4,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 97,
     "codigo": "dw",
     "curso": "Creando mi primer Videojuego",
+    "Descripcion": "",
     "lenguaje": "Unity",
     "main": "unity",
     "nivel": "Básico",
@@ -1258,12 +1451,14 @@
     "Profesor": "Claudi Lazaro",
     "duracion": 6,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 98,
     "codigo": "dw",
     "curso": "Curso de WebPack",
+    "Descripcion": "",
     "lenguaje": "Webpack",
     "main": "webpack",
     "nivel": "Intermedio",
@@ -1271,12 +1466,14 @@
     "Profesor": "Oscar Barajas Tavares",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 99,
     "codigo": "dw",
     "curso": "Crea un sitio web de reservas con Wordpress, Divi y Woocommerce",
+    "Descripcion": "",
     "lenguaje": "Wordpress",
     "main": "wordpress",
     "nivel": "Básico",
@@ -1284,12 +1481,14 @@
     "Profesor": "",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 100,
     "codigo": "dw",
     "curso": "Aprende a hacer tu página web con wordpress",
+    "Descripcion": "",
     "lenguaje": "Wordpress",
     "main": "wordpress",
     "nivel": "Básico",
@@ -1297,12 +1496,14 @@
     "Profesor": "",
     "duracion": 3,
     "categoria": "Desarrollo Web",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 101,
     "codigo": "in",
     "curso": "Estrategias para Aprender Inglés Online",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Básico",
@@ -1310,12 +1511,14 @@
     "Profesor": "Andrea Velásquez",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 102,
     "codigo": "in",
     "curso": "Curso de Inglés para Principiantes",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Básico",
@@ -1323,12 +1526,14 @@
     "Profesor": "Gina Pedraza",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 103,
     "codigo": "in",
     "curso": "Taller de Inglés para Principiantes",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Básico",
@@ -1336,12 +1541,14 @@
     "Profesor": "Jess Harris",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 104,
     "codigo": "in",
     "curso": "Curso de Inglés Básico - Fundamentos",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Básico",
@@ -1349,12 +1556,14 @@
     "Profesor": "Paula Becerra",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 105,
     "codigo": "in",
     "curso": "Curso de Inglés Básico - Gramática",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Básico",
@@ -1362,12 +1571,14 @@
     "Profesor": "Paula Becerra",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 106,
     "codigo": "in",
     "curso": "Curso de Inglés Básico - Descripcones y Comparativos",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Básico",
@@ -1375,12 +1586,14 @@
     "Profesor": "Jaime José Durán",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 107,
     "codigo": "in",
     "curso": "Curso de Inglés Básico - Conversación",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Básico",
@@ -1388,12 +1601,14 @@
     "Profesor": "Paula Becerra",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 108,
     "codigo": "in",
     "curso": "Curso de Inglés Básico - Pronunciación",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Básico",
@@ -1401,12 +1616,14 @@
     "Profesor": "Emma Carvajal",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 109,
     "codigo": "in",
     "curso": "Curso de Inglés Práctico - Fundamentos",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Intermedio",
@@ -1414,12 +1631,14 @@
     "Profesor": "Paula Becerra",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 110,
     "codigo": "in",
     "curso": "Curso de Inglés Práctico - Gramática",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Intermedio",
@@ -1427,12 +1646,14 @@
     "Profesor": "Paula Becerra",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 111,
     "codigo": "in",
     "curso": "Curso de Inglés Práctico - Conversación",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Intermedio",
@@ -1440,12 +1661,14 @@
     "Profesor": "Paula Becerra",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 112,
     "codigo": "in",
     "curso": "Curso de Inglés Práctico - Pronunciación",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Intermedio",
@@ -1453,12 +1676,14 @@
     "Profesor": "Gina Pedraza",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 113,
     "codigo": "in",
     "curso": "Curso de Inglés Intermedio - Gramática",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Intermedio",
@@ -1466,12 +1691,14 @@
     "Profesor": "Andrés Montilla",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 114,
     "codigo": "in",
     "curso": "Curso de Inglés Intermedio - Conversación",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Intermedio",
@@ -1479,12 +1706,14 @@
     "Profesor": "Jess Harris",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 115,
     "codigo": "in",
     "curso": "Curso de Inglés Intermedio - Pronunciación",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Intermedio",
@@ -1492,12 +1721,14 @@
     "Profesor": "Emma Carvajal",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 116,
     "codigo": "in",
     "curso": "Curso de Inglés Intermedio para el Trabajo",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Intermedio",
@@ -1505,12 +1736,14 @@
     "Profesor": "Jess Harris",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 117,
     "codigo": "in",
     "curso": "Curso de Inglés Intermedio alto - Gramática",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Avanzado",
@@ -1518,12 +1751,14 @@
     "Profesor": "Andrés Montilla",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 118,
     "codigo": "in",
     "curso": "Curso de Inglés Intermedio alto - Conversación",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Avanzado",
@@ -1531,12 +1766,14 @@
     "Profesor": "",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 119,
     "codigo": "in",
     "curso": "Curso de Inglés Avanzado - Gramática",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Avanzado",
@@ -1544,12 +1781,14 @@
     "Profesor": "",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 120,
     "codigo": "in",
     "curso": "Curso de Inglés Avanzado - Conversación",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Avanzado",
@@ -1557,12 +1796,14 @@
     "Profesor": "Gaby Van Horn",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 121,
     "codigo": "in",
     "curso": "Curso de Inglés Avanzado - Pronunciación",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Avanzado",
@@ -1570,12 +1811,14 @@
     "Profesor": "Mariana Lafón",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 122,
     "codigo": "in",
     "curso": "Curso de Inglés Avanzado para el Trabajo",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Avanzado",
@@ -1583,12 +1826,14 @@
     "Profesor": "Teresa González Pacheco",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 123,
     "codigo": "in",
     "curso": "Curso de Inglés para Costumer Service",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Complementario",
@@ -1596,12 +1841,14 @@
     "Profesor": "Cesar Cordero",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 124,
     "codigo": "in",
     "curso": "Curso de Inglés para entrevistas de trabajo",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Complementario",
@@ -1609,12 +1856,14 @@
     "Profesor": "Carolina Boquin",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 125,
     "codigo": "in",
     "curso": "Curso de Inglés Técnico para Profesionales",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Complementario",
@@ -1622,12 +1871,14 @@
     "Profesor": "Paula Becerra",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 126,
     "codigo": "in",
     "curso": "Curso de escritura en Inglés",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Complementario",
@@ -1635,12 +1886,14 @@
     "Profesor": "Paula Becerra",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 127,
     "codigo": "in",
     "curso": "Curso de Inglés para Developers",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Complementario",
@@ -1648,12 +1901,14 @@
     "Profesor": "Carlos Arriaga",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 128,
     "codigo": "in",
     "curso": "Curso de Inglés para Marketing",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Complementario",
@@ -1661,12 +1916,14 @@
     "Profesor": "Ana Karina González",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 129,
     "codigo": "in",
     "curso": "Curso de Inglés para Ventas y Negocios",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Complementario",
@@ -1674,12 +1931,14 @@
     "Profesor": "Francisco Lanz",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 130,
     "codigo": "in",
     "curso": "Curso de Inglés para Finanzas",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Complementario",
@@ -1687,12 +1946,14 @@
     "Profesor": "Suzan Gary",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 131,
     "codigo": "in",
     "curso": "Curso de Inglés para Startups",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Complementario",
@@ -1700,12 +1961,14 @@
     "Profesor": "Santigo Gómez",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 132,
     "codigo": "in",
     "curso": "Curso de Preparación para TOEFL",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Complementario",
@@ -1713,12 +1976,14 @@
     "Profesor": "Alita Zaniolo",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 133,
     "codigo": "in",
     "curso": "Curso de Preparación para IELTS",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Complementario",
@@ -1726,12 +1991,14 @@
     "Profesor": "Gaby Van Horn",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 134,
     "codigo": "in",
     "curso": "Curso de Inglés para Productores",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Complementario",
@@ -1739,12 +2006,14 @@
     "Profesor": "Alita Zaniolo",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 135,
     "codigo": "in",
     "curso": "101 Secretos para aprender Inglés",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "Libros",
     "nivel": "Completo",
@@ -1752,12 +2021,14 @@
     "Profesor": "Meta Aprendizaje",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 136,
     "codigo": "in",
     "curso": "Aprendizaje Acelerado de Idiomas",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "Idiomas",
     "nivel": "Completo",
@@ -1765,12 +2036,14 @@
     "Profesor": "",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 137,
     "codigo": "in",
     "curso": "Curso de Inglés Vaughan",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Completo",
@@ -1778,12 +2051,14 @@
     "Profesor": "Richard Vaughan",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 138,
     "codigo": "in",
     "curso": "Effortless English",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Completo",
@@ -1791,12 +2066,14 @@
     "Profesor": "",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 139,
     "codigo": "in",
     "curso": "Pimsleur Inglés",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Completo",
@@ -1804,12 +2081,14 @@
     "Profesor": "",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
   },
   {
     "idCurso": 140,
     "codigo": "in",
     "curso": "YouTalk",
+    "Descripcion": "",
     "lenguaje": "",
     "main": "ingles",
     "nivel": "Completo",
@@ -1817,6 +2096,22 @@
     "Profesor": "YouTalk Tv",
     "duracion": "",
     "categoria": "Inglés",
-    "precio": 6.99
+    "precio": 6.99,
+    "precioRegular": 14.99
+  },
+  {
+    "idCurso": 9999,
+    "codigo": "spdw",
+    "curso": "Super Pack Desarrollo Web",
+    "descripcion": "El Pack contiene cursos de básico a avanzado en diferentes categorías. Podrás crear proyectos completos paso a paso de manera profesional en diferentes lenguajes, frameworks y librerias.",
+    "lenguaje": "Todos",
+    "main": "",
+    "nivel": "Básico a Experto",
+    "Plataforma": "Udemy, Platzi, Mastermind, Edteam...",
+    "Profesor": "Todos",
+    "duracion": "1455",
+    "categoria": "Promociones",
+    "precio": 29.99,
+    "precioRegular": 67
   }
 ]

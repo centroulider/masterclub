@@ -3,6 +3,7 @@ const urlParams = new URLSearchParams(urlPage);
 const cat = urlParams.get('categoria');
 
 
+
 fetch('../assets/data/superPack.json')
 .then(response => response.json() )
 .then(data => {
@@ -95,3 +96,12 @@ function searchFilters(input, selector) {
 }
 
 searchFilters(".filtro-tarjetas", ".tarjeta");
+
+// Redirección desde categorias Super Pack a Categoria Desarrollo Web. ¡¡¡ IMPORTANTE !!!
+
+if (cat == "spdw") {
+    function redirect(){
+        window.location.assign('https://masterclub30.digital/categorias.html?categoria=dw');
+    }
+    redirect()
+}
